@@ -1,0 +1,11 @@
+# Entorns virtuals
+venv/
+.env/
+
+# Fitxers temporals
+*.pyc
+__pycache__/
+
+# Altres fitxers del sistema
+.DS_Store
+Thumbs.db
