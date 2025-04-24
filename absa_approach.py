@@ -1,12 +1,10 @@
 import stanza
 
-# Cargar pipeline
 nlp = stanza.Pipeline(lang='es', processors='tokenize,pos,constituency')
 
 text = "La batería de portátil es increíble, pero el teclado es un poco malo y la música se oye mal."
 doc = nlp(text)
 
-# 1. Extraer cláusulas S
 s_phrases = []
 for sentence in doc.sentences:
     tree = sentence.constituency
@@ -19,7 +17,7 @@ for sentence in doc.sentences:
                 s_phrases.append(phrase)
             queue.extend(child for child in node.children if not isinstance(child, tuple))
 
-# 2. Eliminar las frases más largas que contienen a otras más pequeñas
+
 to_remove = set()
 for i, phrase_i in enumerate(s_phrases):
     for j, phrase_j in enumerate(s_phrases):
