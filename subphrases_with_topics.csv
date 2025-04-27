@@ -1,0 +1,806 @@
+original_tweet_id,original_tweet_text,subphrase,Assigned_Topic_ID,Assignment_Confidence,Assigned_Topic_Name
+0,Lildami lo dieron todo toa,Lildami lo dieron todo toa,0,0.3681283451965051,rollo
+1,me encantó la comida del festival xq,me encantó la comida del festival xq,1,0.25397194881065094,comida
+2,The Tyets hizo vibrar al público,The Tyets hizo vibrar al público,0,1.0,rollo
+3,Audio brutal,Audio brutal,0,0.012322274124407166,rollo
+4,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+5,esperamos muchísimo para entrar,esperamos muchísimo para entrar,0,0.01085923207043533,rollo
+6,Ambiente regular como siempre xq,Ambiente regular como siempre xq,4,1.0,ambiente
+7,Audio brutal,Audio brutal,0,0.01231259359395236,rollo
+8,Sonido distorsionado y muy alto porque fue brutal,Sonido distorsionado,0,0.009787290091577068,rollo
+8,Sonido distorsionado y muy alto porque fue brutal,muy alto porque fue brutal,0,0.1696120080606089,rollo
+9,Audio brutal,Audio brutal,0,0.012316025036207911,rollo
+10,The Tyets lo dieron todo,The Tyets lo dieron todo,0,0.3623727951527221,rollo
+11,Quevedo estuvo genial,Quevedo estuvo genial,0,0.3119900689299843,rollo
+12,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009780762737494756,rollo
+12,Sonido distorsionado y muy alto,muy alto,-1,0.16588899525622552,Unknown
+13,audio brutal toa,audio brutal toa,0,0.012283988667760763,rollo
+14,Bad Gyal lo dieron todo,Bad Gyal lo dieron todo,0,0.10784036642933037,rollo
+15,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+16,me encantó la comida del festival bno,me encantó la comida del festival bno,1,0.2536710455173971,comida
+17,No había casi colas,No había casi colas,2,1.0,ambiente
+18,El sonido fue perfecto ya que fue brutal,El sonido fue perfecto ya que fue brutal,5,1.0,ambiente
+19,Muy buen ambiente cuando fue brutal,Muy buen ambiente cuando fue brutal,0,0.1745827440922205,rollo
+20,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19371397677586394,Unknown
+21,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19415457366867345,Unknown
+22,Muy mal organizado todo porque fue brutal,Muy mal organizado todo porque fue brutal,3,1.0,organización
+23,Tiempos de espera razonables k,Tiempos de espera razonables,-1,0.19432102628813877,Unknown
+24,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+25,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010252818844065209,rollo
+26,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+26,Ambiente cargado y mal rollo,mal rollo,0,0.010534091230341217,rollo
+27,Me encantó la comida del festival porque fue brutal,Me encantó la comida del festival porque fue brutal,1,1.0,comida
+28,desastre en la organización,desastre en la organización,3,1.0,organización
+29,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+30,Organización como cualquier festival,Organización como cualquier festival,-1,0.2353242790868482,Unknown
+31,Demasiada gente agobiante,Demasiada gente agobiante,0,0.010339709390768758,rollo
+32,The Tyets estuvo genial,The Tyets estuvo genial,0,0.3579867551136884,rollo
+33,Rosalía lo dieron todo,Rosalía lo dieron,0,1.0,rollo
+34,tiempos de espera razonables xq,tiempos de espera razonables xq,-1,0.19542919408345916,Unknown
+35,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+36,Demasiada gente agobiante,Demasiada gente agobiante,0,0.010333909572589393,rollo
+37,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+38,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.1941870930716486,Unknown
+39,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009770874523669761,rollo
+39,Sonido distorsionado y muy alto,muy alto,-1,0.165848109528625,Unknown
+40,Muy buen ambiente toa,Muy buen ambiente toa,5,1.0,ambiente
+41,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009761427773408696,rollo
+41,Sonido distorsionado y muy alto,muy alto,-1,0.16616122706625572,Unknown
+42,Ambiente cargado y mal rollo cuando fue brutal,Ambiente cargado,2,1.0,ambiente
+42,Ambiente cargado y mal rollo cuando fue brutal,mal rollo cuando fue brutal,0,0.19203226578861662,rollo
+43,Carísima y mala la comida,mala la comida,1,1.0,comida
+44,Esperamos muchísimo para entrar super biennn,Esperamos muchísimo para entrar super biennn,0,0.010218938678405834,rollo
+45,Tiempos de espera razonables genialll,Tiempos de espera razonables genialll,-1,0.19405675861797533,Unknown
+46,Comida normal nada especial,Comida normal,1,0.22828397377599563,comida
+46,Comida normal nada especial,nada especial,-1,0.05705639238049703,Unknown
+47,Organización como cualquier festival,Organización como cualquier festival,-1,0.2352237412241531,Unknown
+48,el sonido fue perfecto,el sonido fue perfecto,5,1.0,ambiente
+49,lildami estuvo genial,estuvo genial,0,0.3025620122508874,rollo
+50,Audio brutal,Audio brutal,0,0.012317395445710476,rollo
+51,Buhos hizo vibrar al público bno,Buhos hizo vibrar al público bno,0,1.0,rollo
+52,rosalía decepcionante,rosalía decepcionante,0,0.6365273513770747,rollo
+53,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+54,Esperamos muchísimo para entrar cuando fue brutal,Esperamos muchísimo para entrar cuando fue brutal,0,0.010849489240349584,rollo
+55,Buhos estuvo genial,Buhos estuvo genial,0,0.35064686213056495,rollo
+57,Audio brutal,Audio brutal,0,0.012315693941791073,rollo
+58,Esperamos muchísimo para entrar bno,Esperamos muchísimo para entrar bno,0,0.010211012047321041,rollo
+59,No había casi colas,No había casi colas,2,1.0,ambiente
+60,Lildami lo dieron todo,Lildami lo dieron todo,0,0.3698384853970575,rollo
+61,Sonido distorsionado y muy alto porque fue brutal,Sonido distorsionado,0,0.009782099592012986,rollo
+61,Sonido distorsionado y muy alto porque fue brutal,muy alto porque fue brutal,0,0.16957515306784476,rollo
+62,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010258912558736578,rollo
+63,organización como cualquier festival,organización como cualquier festival,-1,0.23488402022975524,Unknown
+64,comida normal nada especial,comida normal,1,0.22849116605134992,comida
+64,comida normal nada especial,nada especial,-1,0.057054847363513024,Unknown
+65,Comida normal nada especial,Comida normal,1,0.22858011319814145,comida
+65,Comida normal nada especial,nada especial,-1,0.05712777386929967,Unknown
+66,Desastre en la organización,Desastre en la organización,3,1.0,organización
+67,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+68,Organización como cualquier festival bno,Organización como cualquier festival bno,-1,0.23545166348417243,Unknown
+69,tiempos de espera razonables,tiempos de espera razonables,-1,0.19485077997048478,Unknown
+70,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+71,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+72,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+72,Ambiente cargado y mal rollo,mal rollo,0,0.010536356015223926,rollo
+73,Muy mal organizado todo genialll,Muy mal organizado todo,3,1.0,organización
+74,Rigoberta Bandini hizo vibrar al público,Rigoberta Bandini hizo vibrar al público,0,1.0,rollo
+75,bad gyal lo dieron todo cuando fue brutal,bad gyal lo dieron todo cuando fue brutal,0,0.10793130666289799,rollo
+76,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+77,ambiente cargado y mal rollo,ambiente cargado,2,1.0,ambiente
+77,ambiente cargado y mal rollo,mal rollo,0,0.010557866927159822,rollo
+78,Rosalía lo dieron todo porque fue brutal,Rosalía lo dieron todo porque fue brutal,0,0.1785606113596579,rollo
+79,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+80,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+81,Ambiente cargado y mal rollo porque fue brutal,Ambiente cargado,2,1.0,ambiente
+81,Ambiente cargado y mal rollo porque fue brutal,mal rollo porque fue brutal,0,0.19254746689483027,rollo
+82,Muy buen ambiente mientras fue brutal,Muy buen ambiente,5,1.0,ambiente
+82,Muy buen ambiente mientras fue brutal,mientras fue brutal,0,0.17453053594598678,rollo
+83,demasiada gente agobiante,demasiada gente agobiante,0,0.01034734544260126,rollo
+84,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+84,Ambiente cargado y mal rollo,mal rollo,0,0.010535440181641672,rollo
+85,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+85,Ambiente cargado y mal rollo,mal rollo,0,0.010535330964099915,rollo
+86,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009769176572565472,rollo
+86,Sonido distorsionado y muy alto,muy alto,-1,0.16591057647168425,Unknown
+87,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+88,Demasiada gente agobiante,Demasiada gente agobiante,0,0.010337140291535778,rollo
+89,Me encantó la comida del festival,Me encantó la comida del festival,1,0.25600749421073826,comida
+90,todo muy bien organizado,todo muy bien organizado,4,1.0,ambiente
+91,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010263311474753928,rollo
+92,Ambiente cargado y mal rollo porque fue brutal,Ambiente cargado,2,1.0,ambiente
+92,Ambiente cargado y mal rollo porque fue brutal,mal rollo porque fue brutal,0,0.19207078009129366,rollo
+93,The Tyets estuvo genial,The Tyets estuvo genial,0,0.3611513379146212,rollo
+94,No había casi colas,No había casi colas,2,1.0,ambiente
+95,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+96,audio brutal bno,audio brutal,0,0.012317659924424885,rollo
+97,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009763000913660957,rollo
+97,Sonido distorsionado y muy alto,muy alto,-1,0.16575358319528588,Unknown
+98,la comida estuvo increíble,la comida estuvo increíble,1,1.0,comida
+99,Me encantó la comida del festival,Me encantó la comida del festival,1,0.2555908494230434,comida
+100,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+101,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+102,Volumen fatal,Volumen fatal,0,0.032008077538287286,rollo
+103,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+104,Lola Índigo decepcionante,Lola Índigo decepcionante,0,0.9410261731521528,rollo
+105,rigoberta bandini decepcionante,rigoberta bandini decepcionante,0,0.3616285666416179,rollo
+106,esperamos muchísimo para entrar,esperamos muchísimo para entrar,0,0.010858786681635509,rollo
+107,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010249425167692687,rollo
+108,colas interminables un desastre,colas interminables,6,1.0,desastre
+108,colas interminables un desastre,un desastre,6,1.0,desastre
+109,Carísima y mala la comida,mala la comida,1,1.0,comida
+110,Organización como cualquier festival,Organización como cualquier festival,-1,0.23606244546849314,Unknown
+111,Desastre en la organización,Desastre en la organización,3,1.0,organización
+112,Bad Gyal decepcionante,Bad Gyal decepcionante,0,0.09875907759861823,rollo
+113,Ambiente cargado y mal rollo mientras fue brutal,Ambiente cargado,2,1.0,ambiente
+113,Ambiente cargado y mal rollo mientras fue brutal,mal rollo mientras fue brutal,0,0.18922959367928757,rollo
+114,Carísima y mala la comida,mala la comida,1,1.0,comida
+115,No había casi colas mientras fue brutal,No había casi colas mientras fue brutal,2,1.0,ambiente
+117,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+118,Quevedo hizo vibrar al público,Quevedo hizo vibrar al público,0,1.0,rollo
+119,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19394621190230898,Unknown
+120,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+121,Desastre en la organización,Desastre en la organización,3,1.0,organización
+122,Organización como cualquier festival,Organización como cualquier festival,-1,0.23505875918852764,Unknown
+123,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+124,Quevedo estuvo genial flipanteee,Quevedo estuvo genial flipanteee,0,0.32035127287096327,rollo
+125,desastre en la organización super biennn ya que fue brutal,desastre en la organización super biennn ya que fue brutal,3,1.0,organización
+126,Buhos lo dieron todo,Buhos lo dieron todo,0,0.36986359878072234,rollo
+127,lola índigo lo dieron todo,lola índigo lo dieron,0,1.0,rollo
+128,Stay Homas hizo vibrar al público porque fue brutal,Stay Homas hizo vibrar al público porque fue brutal,0,0.32297167643269364,rollo
+129,Carísima y mala la comida,mala la comida,1,1.0,comida
+130,tiempos de espera razonables lo dio todooo,tiempos de espera razonables lo dio todooo,-1,0.1949619540936056,Unknown
+131,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19459624088256663,Unknown
+132,ambiente regular como siempre,regular como siempre,4,1.0,ambiente
+133,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+134,Me encantó la comida del festival,Me encantó la comida del festival,1,0.2553438957811937,comida
+135,Rosalía decepcionante,Rosalía decepcionante,0,0.6582696792870005,rollo
+136,The Tyets decepcionante,The Tyets decepcionante,0,0.3613476759454234,rollo
+137,Stay Homas estuvo genial,Stay Homas estuvo genial,0,0.325436730084533,rollo
+138,tiempos de espera razonables,tiempos de espera razonables,-1,0.19491871340439063,Unknown
+139,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.00975082064896103,rollo
+139,Sonido distorsionado y muy alto,muy alto,-1,0.16563395143043247,Unknown
+140,Muy mal organizado todo porque fue brutal,Muy mal organizado todo porque fue brutal,3,1.0,organización
+141,Aitana hizo vibrar al público mientras fue brutal,Aitana hizo vibrar al público mientras fue brutal,0,1.0,rollo
+142,Demasiada gente agobiante,Demasiada gente agobiante,0,0.010336176473398994,rollo
+143,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+144,Lildami hizo vibrar al público k,Lildami hizo vibrar al público,0,1.0,rollo
+145,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+146,Lola Índigo hizo vibrar al público,Lola Índigo hizo vibrar al público,0,1.0,rollo
+147,no había casi colas,no había casi colas,2,1.0,ambiente
+148,Demasiada gente agobiante,Demasiada gente agobiante,0,0.01034548533142422,rollo
+149,audio brutal,audio brutal,0,0.012313369006380883,rollo
+150,Comida normal nada especial,Comida normal,1,0.22853513588076713,comida
+150,Comida normal nada especial,nada especial,-1,0.05706599467364483,Unknown
+151,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.1936719412347229,Unknown
+152,No había casi colas super biennn,No había casi colas super biennn,2,1.0,ambiente
+153,la comida estuvo increíble,la comida estuvo increíble,1,1.0,comida
+154,carísima y mala la comida,mala la comida,1,1.0,comida
+155,Muy mal organizado todo no convenciooo,Muy mal organizado todo,3,1.0,organización
+155,Muy mal organizado todo no convenciooo,no convenciooo,0,0.3574047223144255,rollo
+156,Quevedo decepcionante vibraaa,Quevedo decepcionante vibraaa,0,0.36098591149022663,rollo
+157,me encantó la comida del festival flipanteee porque fue brutal,me encantó la comida del festival flipanteee porque fue brutal,1,1.0,comida
+158,Bad Gyal decepcionante,Bad Gyal decepcionante,0,0.09734040083503412,rollo
+159,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+160,Audio brutal,Audio brutal,0,0.012287970023101554,rollo
+161,Bad Gyal decepcionante,Bad Gyal decepcionante,0,0.09950342721810652,rollo
+162,Todo muy bien organizado toa,Todo muy bien organizado toa,4,1.0,ambiente
+163,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+164,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+164,Ambiente cargado y mal rollo,mal rollo,0,0.010538727815074436,rollo
+165,ambiente regular como siempre,regular como siempre,4,1.0,ambiente
+166,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+167,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+168,buhos decepcionante,buhos decepcionante,0,0.3606693886857382,rollo
+169,el sonido fue perfecto,el sonido fue perfecto,5,1.0,ambiente
+170,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009755180873835012,rollo
+170,Sonido distorsionado y muy alto,muy alto,-1,0.16562984186299948,Unknown
+171,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+172,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+173,Aitana hizo vibrar al público lo dio todooo,Aitana hizo vibrar al público lo dio todooo,0,1.0,rollo
+174,Ambiente regular como siempre cuando fue brutal,Ambiente regular como siempre cuando fue brutal,4,1.0,ambiente
+175,Audio brutal,Audio brutal,0,0.012319455940704329,rollo
+176,Ambiente cargado y mal rollo k,Ambiente cargado,2,1.0,ambiente
+176,Ambiente cargado y mal rollo k,mal rollo,0,0.010526676020444924,rollo
+177,Esperamos muchísimo para entrar aunque fue brutal,Esperamos muchísimo para entrar aunque,0,0.010245259574533259,rollo
+177,Esperamos muchísimo para entrar aunque fue brutal,fue brutal,0,0.17502837209125927,rollo
+178,Audio brutal aunque fue brutal,Audio brutal,0,0.012318102951060558,rollo
+178,Audio brutal aunque fue brutal,aunque fue brutal,0,0.17574205817446467,rollo
+179,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+180,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+181,stay homas estuvo genial,stay homas estuvo genial,0,0.3243379734765587,rollo
+182,Quevedo estuvo genial,Quevedo estuvo genial,0,0.30860199536736316,rollo
+183,No había casi colas,No había casi colas,2,1.0,ambiente
+184,lola índigo decepcionante,lola índigo decepcionante,0,0.8648011530215283,rollo
+185,carísima y mala la comida,mala la comida,1,1.0,comida
+186,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.01023096436174494,rollo
+187,Lola Índigo decepcionante aunque fue brutal,Lola Índigo decepcionante aunque fue brutal,0,1.0,rollo
+188,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+189,Organización como cualquier festival,Organización como cualquier festival,-1,0.23544419274290335,Unknown
+190,buhos lo dieron todo lo dio todooo,buhos lo dieron todo lo dio todooo,0,0.36916230068492145,rollo
+191,buhos estuvo genial,buhos estuvo genial,0,0.344095284411844,rollo
+192,Rigoberta Bandini hizo vibrar al público,Rigoberta Bandini hizo vibrar al público,0,1.0,rollo
+193,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+194,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009741694752173229,rollo
+194,Sonido distorsionado y muy alto,muy alto,-1,0.1657265752162744,Unknown
+195,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+196,Lola Índigo estuvo genial,Lola Índigo estuvo genial,0,1.0,rollo
+197,audio brutal,audio brutal,0,0.012307842563892946,rollo
+198,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010231112530366454,rollo
+199,Audio brutal,Audio brutal,0,0.012313769083843537,rollo
+200,Volumen fatal vibraaa,Volumen fatal vibraaa,0,0.031651824126393203,rollo
+201,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+202,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+203,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+204,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+205,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+206,Comida normal nada especial,Comida normal,1,0.22822748862989412,comida
+206,Comida normal nada especial,nada especial,-1,0.05704061354005634,Unknown
+207,Comida normal nada especial lo dio todooo,Comida normal nada especial lo dio todooo,1,0.23371821406421014,comida
+208,Me encantó la comida del festival no convenciooo,Me encantó la comida del festival no convenciooo,1,0.2555182857024665,comida
+209,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+210,carísima y mala la comida,mala la comida,1,1.0,comida
+211,Esperamos muchísimo para entrar lo dio todooo,Esperamos muchísimo para entrar lo dio todooo,0,0.01020932119676005,rollo
+212,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+213,Rosalía estuvo genial,Rosalía estuvo genial,0,1.0,rollo
+214,Rigoberta Bandini hizo vibrar al público vibraaa porque fue brutal,Rigoberta Bandini hizo vibrar al público vibraaa porque fue brutal,0,1.0,rollo
+215,Carísima y mala la comida,mala la comida,1,1.0,comida
+216,Buhos decepcionante genialll,Buhos decepcionante genialll,0,0.3610452548906672,rollo
+217,Desastre en la organización,Desastre en la organización,3,1.0,organización
+218,Muy mal organizado todo mientras fue brutal,Muy mal organizado todo,3,1.0,organización
+218,Muy mal organizado todo mientras fue brutal,mientras fue brutal,0,0.17427866947426368,rollo
+219,Sonido distorsionado y muy alto bno,Sonido distorsionado,0,0.009752133907827441,rollo
+219,Sonido distorsionado y muy alto bno,muy alto bno,-1,0.165963615406645,Unknown
+220,Desastre en la organización genialll,Desastre en la organización genialll,3,1.0,organización
+221,Bad Gyal lo dieron todo,Bad Gyal lo dieron todo,0,0.10971252233457401,rollo
+222,audio brutal genialll,audio brutal genialll,0,0.012296855699576753,rollo
+223,Comida normal nada especial,Comida normal,1,0.22804990648627946,comida
+223,Comida normal nada especial,nada especial,-1,0.05698855557858562,Unknown
+224,No había casi colas,No había casi colas,2,1.0,ambiente
+225,Aitana hizo vibrar al público,Aitana hizo vibrar al público,0,1.0,rollo
+226,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+227,Comida normal nada especial ya que fue brutal,Comida normal nada especial ya que fue brutal,1,0.23941841107930675,comida
+228,Lildami decepcionante,Lildami decepcionante,0,0.3612682021096185,rollo
+229,ambiente regular como siempre cuando fue brutal,ambiente regular como siempre cuando fue,4,1.0,ambiente
+230,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010245101758003323,rollo
+231,Desastre en la organización,Desastre en la organización,3,1.0,organización
+232,Quevedo hizo vibrar al público,Quevedo hizo vibrar al público,0,1.0,rollo
+233,Rigoberta Bandini estuvo genial aunque fue brutal,Rigoberta Bandini estuvo genial aunque fue brutal,0,1.0,rollo
+234,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+235,demasiada gente agobiante,demasiada gente agobiante,0,0.010352589298052543,rollo
+236,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+237,lola índigo decepcionante mientras fue brutal,lola índigo decepcionante mientras fue,0,0.8455365975805267,rollo
+238,Audio brutal no convenciooo,Audio brutal no convenciooo,0,0.012321337542223192,rollo
+239,Desastre en la organización k,Desastre en la organización,3,1.0,organización
+240,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+241,Ambiente regular como siempre porque fue brutal,Ambiente regular como siempre porque fue brutal,4,1.0,ambiente
+242,ambiente regular como siempre lo dio todooo,regular como siempre lo dio todooo,4,1.0,ambiente
+243,sonido distorsionado y muy alto,sonido distorsionado,0,0.009810384170624908,rollo
+243,sonido distorsionado y muy alto,muy alto,-1,0.16544253929965788,Unknown
+244,muy buen ambiente,muy buen ambiente,5,1.0,ambiente
+245,colas interminables un desastre,colas interminables,6,1.0,desastre
+245,colas interminables un desastre,un desastre,6,1.0,desastre
+246,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+247,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+248,Me encantó la comida del festival,Me encantó la comida del festival,1,0.2558414333968084,comida
+249,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+250,Audio brutal super biennn,Audio brutal super biennn,0,0.012292170067066422,rollo
+251,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.1943465016650128,Unknown
+252,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.0097454909950659,rollo
+252,Sonido distorsionado y muy alto,muy alto,-1,0.16525095872916667,Unknown
+253,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.01023754854940942,rollo
+254,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+255,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.1939959677439234,Unknown
+256,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.1938130615142767,Unknown
+257,Audio brutal,Audio brutal,0,0.012314346813479322,rollo
+258,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+259,Desastre en la organización,Desastre en la organización,3,1.0,organización
+260,Demasiada gente agobiante,Demasiada gente agobiante,0,0.01033350081594975,rollo
+261,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009742503071570154,rollo
+261,Sonido distorsionado y muy alto,muy alto,-1,0.16582009003637194,Unknown
+262,No había casi colas,No había casi colas,2,1.0,ambiente
+263,Organización como cualquier festival,Organización como cualquier festival,-1,0.23540085717976364,Unknown
+264,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+265,no había casi colas,no había casi colas,2,1.0,ambiente
+266,the tyets estuvo genial,the tyets estuvo genial,0,0.35994610531615573,rollo
+267,Volumen fatal,Volumen fatal,0,0.031907681122136614,rollo
+268,Sonido distorsionado y muy alto toa,Sonido distorsionado,0,0.009789788937346918,rollo
+268,Sonido distorsionado y muy alto toa,muy alto,-1,0.16579784994846838,Unknown
+269,Rigoberta Bandini lo dieron todo,Rigoberta Bandini lo dieron todo,0,1.0,rollo
+270,Muy mal organizado todo flipanteee,Muy mal organizado todo flipanteee,3,1.0,organización
+271,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+271,Ambiente cargado y mal rollo,mal rollo,0,0.010537358313140389,rollo
+272,no había casi colas super biennn,no había casi colas super biennn,2,1.0,ambiente
+273,Buhos lo dieron todo,Buhos lo dieron todo,0,0.36942462864886594,rollo
+274,Aitana hizo vibrar al público porque fue brutal,Aitana hizo vibrar al público porque fue brutal,0,1.0,rollo
+275,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009764308389530754,rollo
+275,Sonido distorsionado y muy alto,muy alto,-1,0.1657690185400931,Unknown
+276,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+277,Organización como cualquier festival,Organización como cualquier festival,-1,0.23525032056758638,Unknown
+278,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+279,Volumen fatal,Volumen fatal,0,0.03196926379897623,rollo
+280,Organización como cualquier festival,Organización como cualquier festival,-1,0.2352157377464722,Unknown
+281,no había casi colas mientras fue brutal,no había casi colas mientras fue,2,1.0,ambiente
+282,volumen fatal,volumen fatal,0,0.031914318134587706,rollo
+283,Stay Homas hizo vibrar al público porque fue brutal,Stay Homas hizo vibrar al público porque fue brutal,0,0.32156134698581057,rollo
+284,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+285,Comida normal nada especial genialll,Comida normal nada especial genialll,1,0.23284451705419,comida
+286,me encantó la comida del festival,me encantó la comida del festival,1,0.25524936647508806,comida
+287,Buhos hizo vibrar al público,Buhos hizo vibrar al público,0,1.0,rollo
+288,Organización como cualquier festival,Organización como cualquier festival,-1,0.23546654586189084,Unknown
+289,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19391008121702324,Unknown
+290,Aitana hizo vibrar al público,Aitana hizo vibrar al público,0,1.0,rollo
+291,el sonido fue perfecto,el sonido fue perfecto,5,1.0,ambiente
+292,comida normal nada especial,comida normal,1,0.22863875320902588,comida
+292,comida normal nada especial,nada especial,-1,0.0570237381092141,Unknown
+293,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+294,Carísima y mala la comida,mala la comida,1,1.0,comida
+295,Lildami estuvo genial,Lildami estuvo genial,0,0.8923642961116264,rollo
+296,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+297,Aitana hizo vibrar al público cuando fue brutal,Aitana hizo vibrar al público cuando fue brutal,0,1.0,rollo
+298,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19428540147799933,Unknown
+299,Me encantó la comida del festival porque fue brutal,Me encantó la comida del festival porque fue brutal,1,1.0,comida
+300,Muy buen ambiente porque fue brutal,Muy buen ambiente,5,1.0,ambiente
+300,Muy buen ambiente porque fue brutal,porque fue brutal,0,0.175800038929118,rollo
+301,stay homas lo dieron todo,stay homas lo dieron,0,0.32477465944516615,rollo
+302,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+303,The Tyets hizo vibrar al público,The Tyets hizo vibrar al público,0,0.9964649216337593,rollo
+304,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+304,Ambiente cargado y mal rollo,mal rollo,0,0.010528198339040847,rollo
+305,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+306,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009785891106522025,rollo
+306,Sonido distorsionado y muy alto,muy alto,-1,0.16568580295046192,Unknown
+307,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+307,Ambiente cargado y mal rollo,mal rollo,0,0.01052903840760814,rollo
+308,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009729237787507112,rollo
+308,Sonido distorsionado y muy alto,muy alto,-1,0.16558972639785138,Unknown
+309,Organización como cualquier festival mientras fue brutal,Organización como cualquier festival mientras fue brutal,-1,0.23817184662681415,Unknown
+310,Colas interminables un desastre aunque fue brutal,Colas interminables un desastre aunque fue brutal,6,1.0,desastre
+311,organización como cualquier festival,organización como cualquier festival,-1,0.2348500427899683,Unknown
+312,Me encantó la comida del festival no convenciooo,Me encantó la comida del festival no convenciooo,1,0.25562345469960723,comida
+313,Rosalía decepcionante,Rosalía decepcionante,0,0.6715388666619637,rollo
+314,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+315,ambiente cargado y mal rollo,ambiente cargado,2,1.0,ambiente
+315,ambiente cargado y mal rollo,mal rollo,0,0.010535137785501516,rollo
+316,Stay Homas decepcionante,Stay Homas decepcionante,0,0.32709377590986666,rollo
+317,desastre en la organización super biennn cuando fue brutal,desastre en la organización super biennn cuando fue brutal,3,1.0,organización
+318,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+319,lildami hizo vibrar al público bno,lildami hizo vibrar al público bno,0,1.0,rollo
+320,carísima y mala la comida cuando fue brutal,mala la comida cuando fue brutal,1,0.23958090974231297,comida
+321,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+322,Organización como cualquier festival ya que fue brutal,Organización como cualquier festival ya que fue brutal,-1,0.2380469034455425,Unknown
+323,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009773197112616734,rollo
+323,Sonido distorsionado y muy alto,muy alto,-1,0.16549110669772824,Unknown
+324,Demasiada gente agobiante,Demasiada gente agobiante,0,0.010343144791172062,rollo
+325,Organización como cualquier festival mientras fue brutal,Organización como cualquier festival mientras fue brutal,-1,0.23808958465865473,Unknown
+326,el sonido fue perfecto,el sonido fue perfecto,5,1.0,ambiente
+327,buhos decepcionante bno,buhos decepcionante,0,0.3612284450036765,rollo
+328,la comida estuvo increíble,la comida estuvo increíble,1,1.0,comida
+329,Carísima y mala la comida,mala la comida,1,1.0,comida
+330,Me encantó la comida del festival no convenciooo,Me encantó la comida del festival no convenciooo,1,0.255357631701271,comida
+331,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.1938676296500986,Unknown
+332,Volumen fatal,Volumen fatal,0,0.031893523592855764,rollo
+333,Audio brutal ya que fue brutal,Audio brutal ya que fue brutal,0,0.012326593351985196,rollo
+334,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+334,Ambiente cargado y mal rollo,mal rollo,0,0.010510331894467996,rollo
+335,Lildami estuvo genial,Lildami estuvo genial,0,0.882085279133256,rollo
+336,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+337,Demasiada gente agobiante mientras fue brutal,Demasiada gente agobiante mientras fue brutal,0,0.1787416437338358,rollo
+338,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+339,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+340,Lildami estuvo genial,Lildami estuvo genial,0,0.8749800374852457,rollo
+341,Desastre en la organización,Desastre en la organización,3,1.0,organización
+342,la comida estuvo increíble,la comida estuvo increíble,1,1.0,comida
+343,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010248971963582936,rollo
+344,Comida normal nada especial,Comida normal,1,0.22851578390355737,comida
+344,Comida normal nada especial,nada especial,-1,0.05707973575284586,Unknown
+345,Desastre en la organización,Desastre en la organización,3,1.0,organización
+346,La comida estuvo increíble porque fue brutal,La comida estuvo increíble porque fue brutal,1,1.0,comida
+347,Ambiente regular como siempre cuando fue brutal,Ambiente regular como siempre cuando fue brutal,4,1.0,ambiente
+348,muy buen ambiente porque fue brutal,muy buen ambiente,5,1.0,ambiente
+348,muy buen ambiente porque fue brutal,porque fue brutal,0,0.17496443466044126,rollo
+349,aitana estuvo genial,estuvo genial,0,0.31968579878374825,rollo
+350,organización como cualquier festival,organización como cualquier festival,-1,0.23501232563090388,Unknown
+351,Audio brutal,Audio brutal,0,0.012317891890544433,rollo
+352,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+353,Me encantó la comida del festival,Me encantó la comida del festival,1,0.25536529680506026,comida
+354,No había casi colas,No había casi colas,2,1.0,ambiente
+355,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+356,Ambiente regular como siempre cuando fue brutal,Ambiente regular como siempre cuando fue brutal,4,1.0,ambiente
+357,Organización como cualquier festival ya que fue brutal,Organización como cualquier festival ya que fue brutal,-1,0.23793801929716366,Unknown
+358,No había casi colas,No había casi colas,2,1.0,ambiente
+359,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.01025389706397622,rollo
+360,El sonido fue perfecto porque fue brutal,El sonido fue perfecto porque fue brutal,5,1.0,ambiente
+361,Audio brutal toa,Audio brutal toa,0,0.01229974499828199,rollo
+362,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+363,Lildami estuvo genial bno,Lildami estuvo genial bno,0,0.8663543750395829,rollo
+364,Organización como cualquier festival,Organización como cualquier festival,-1,0.23525138537307103,Unknown
+365,esperamos muchísimo para entrar xq,esperamos muchísimo para entrar xq,0,0.010858830403904209,rollo
+366,No había casi colas,No había casi colas,2,1.0,ambiente
+367,colas interminables un desastre,colas interminables,6,1.0,desastre
+367,colas interminables un desastre,un desastre,6,0.999428058032197,desastre
+368,the tyets estuvo genial,the tyets estuvo genial,0,0.36492690718559306,rollo
+369,Organización como cualquier festival,Organización como cualquier festival,-1,0.23529555112216025,Unknown
+370,Aitana hizo vibrar al público,Aitana hizo vibrar al público,0,1.0,rollo
+371,Todo muy bien organizado cuando fue brutal,Todo muy bien organizado cuando fue brutal,4,1.0,ambiente
+372,Aitana lo dieron todo,Aitana lo dieron,0,1.0,rollo
+373,Demasiada gente agobiante vibraaa,Demasiada gente agobiante vibraaa,0,0.010349676768293134,rollo
+374,La comida estuvo increíble porque fue brutal,La comida estuvo increíble porque fue brutal,1,1.0,comida
+375,Comida normal nada especial,Comida normal,1,0.22937228466907403,comida
+375,Comida normal nada especial,nada especial,-1,0.05710099219244748,Unknown
+376,Demasiada gente agobiante,Demasiada gente agobiante,0,0.010345207878635168,rollo
+377,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+378,me encantó la comida del festival,me encantó la comida del festival,1,0.2556279024122043,comida
+379,Carísima y mala la comida,mala la comida,1,1.0,comida
+380,me encantó la comida del festival ya que fue brutal,me encantó la comida del festival ya que fue brutal,1,1.0,comida
+381,Volumen fatal mientras fue brutal,Volumen fatal,0,0.031911000353793524,rollo
+381,Volumen fatal mientras fue brutal,mientras fue brutal,0,0.1736903079526754,rollo
+382,Organización como cualquier festival,Organización como cualquier festival,-1,0.23530149376478698,Unknown
+383,el sonido fue perfecto lo dio todooo,el sonido fue perfecto lo dio todooo,5,1.0,ambiente
+384,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009739171538238016,rollo
+384,Sonido distorsionado y muy alto,muy alto,-1,0.16599741517224484,Unknown
+385,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+386,Esperamos muchísimo para entrar xq,Esperamos muchísimo para entrar xq,0,0.010210789540796636,rollo
+387,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+388,Audio brutal,Audio brutal,0,0.012324530401560677,rollo
+389,la comida estuvo increíble,la comida estuvo increíble,1,1.0,comida
+390,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+391,Comida normal nada especial,Comida normal,1,0.22879183990122545,comida
+391,Comida normal nada especial,nada especial,-1,0.05701953302999487,Unknown
+392,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009745762118554777,rollo
+392,Sonido distorsionado y muy alto,muy alto,-1,0.16565276975840015,Unknown
+393,Me encantó la comida del festival aunque fue brutal,Me encantó la comida del festival aunque fue brutal,1,1.0,comida
+394,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+395,Rigoberta Bandini lo dieron todo,Rigoberta Bandini lo dieron todo,0,1.0,rollo
+396,demasiada gente agobiante,demasiada gente agobiante,0,0.010340367606933614,rollo
+397,Me encantó la comida del festival flipanteee,Me encantó la comida del festival flipanteee,1,0.2559380417503749,comida
+398,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+399,La comida estuvo increíble aunque fue brutal,La comida estuvo increíble aunque fue brutal,1,1.0,comida
+400,Desastre en la organización,Desastre en la organización,3,1.0,organización
+401,Volumen fatal,Volumen fatal,0,0.03195480484933587,rollo
+402,la comida estuvo increíble,la comida estuvo increíble,1,1.0,comida
+403,Carísima y mala la comida cuando fue brutal,mala la comida cuando fue brutal,1,0.239582709807354,comida
+404,Demasiada gente agobiante,Demasiada gente agobiante,0,0.010335259148430068,rollo
+405,volumen fatal mientras fue brutal,volumen fatal,0,0.03195693678526151,rollo
+405,volumen fatal mientras fue brutal,mientras fue brutal,0,0.1743726651694829,rollo
+406,Rosalía decepcionante,Rosalía decepcionante,0,0.6429296917327672,rollo
+407,Volumen fatal,Volumen fatal,0,0.03194043199660831,rollo
+408,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+409,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+410,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+411,Demasiada gente agobiante porque fue brutal,Demasiada gente agobiante porque fue brutal,0,0.17927984048445408,rollo
+412,tiempos de espera razonables,tiempos de espera razonables,-1,0.19492132388984437,Unknown
+413,Ambiente cargado y mal rollo porque fue brutal,Ambiente cargado,2,1.0,ambiente
+413,Ambiente cargado y mal rollo porque fue brutal,mal rollo porque fue brutal,0,0.19242689845017955,rollo
+414,Muy buen ambiente porque fue brutal,Muy buen ambiente,5,1.0,ambiente
+414,Muy buen ambiente porque fue brutal,porque fue brutal,0,0.17566189282561687,rollo
+415,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+416,organización como cualquier festival super biennn aunque fue brutal,organización como cualquier festival super biennn aunque fue brutal,-1,0.23816150492908642,Unknown
+417,Volumen fatal,Volumen fatal,0,0.03202439809214905,rollo
+418,No había casi colas toa,No había casi colas toa,2,1.0,ambiente
+419,sonido distorsionado y muy alto mientras fue brutal,sonido distorsionado,0,0.00976667841630694,rollo
+419,sonido distorsionado y muy alto mientras fue brutal,muy alto,-1,0.16638505738573117,Unknown
+419,sonido distorsionado y muy alto mientras fue brutal,mientras fue brutal,0,0.1751158004558259,rollo
+420,Rosalía hizo vibrar al público,Rosalía hizo vibrar al público,0,1.0,rollo
+421,Ambiente cargado y mal rollo flipanteee,Ambiente cargado,2,1.0,ambiente
+421,Ambiente cargado y mal rollo flipanteee,mal rollo flipanteee,0,0.010511149809209995,rollo
+422,desastre en la organización porque fue brutal,desastre en la organización porque fue brutal,3,1.0,organización
+423,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+424,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+425,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+425,Ambiente cargado y mal rollo,mal rollo,0,0.010524711651090106,rollo
+426,Comida normal nada especial,Comida normal,1,0.2286051965031528,comida
+426,Comida normal nada especial,nada especial,-1,0.05707363112874332,Unknown
+427,No había casi colas,No había casi colas,2,1.0,ambiente
+428,Demasiada gente agobiante genialll,Demasiada gente agobiante genialll,0,0.010362929759111914,rollo
+429,Esperamos muchísimo para entrar aunque fue brutal,Esperamos muchísimo para entrar aunque,0,0.010261627257904495,rollo
+429,Esperamos muchísimo para entrar aunque fue brutal,fue brutal,0,0.17424721914700933,rollo
+430,audio brutal,audio brutal,0,0.012318013063337453,rollo
+431,rosalía decepcionante,rosalía decepcionante,0,0.6652567620727778,rollo
+432,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+433,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+434,muy mal organizado todo,muy mal organizado,3,1.0,organización
+435,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+436,Me encantó la comida del festival,Me encantó la comida del festival,1,0.25632576485159864,comida
+437,Ambiente regular como siempre vibraaa aunque fue brutal,Ambiente regular como siempre vibraaa aunque fue brutal,4,1.0,ambiente
+438,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+439,Comida normal nada especial bno,Comida normal nada especial bno,1,0.23302360290492935,comida
+440,Me encantó la comida del festival,Me encantó la comida del festival,1,0.25632905502206416,comida
+441,desastre en la organización,desastre en la organización,3,1.0,organización
+442,quevedo estuvo genial,quevedo estuvo genial,0,0.3222336690263469,rollo
+443,carísima y mala la comida,mala la comida,1,1.0,comida
+444,Me encantó la comida del festival,Me encantó la comida del festival,1,0.2554365299001322,comida
+445,todo muy bien organizado,todo muy bien organizado,4,1.0,ambiente
+446,Lildami decepcionante lo dio todooo,Lildami decepcionante lo dio todooo,0,0.3703087865092252,rollo
+447,sonido distorsionado y muy alto flipanteee,sonido distorsionado,0,0.009804353326732802,rollo
+447,sonido distorsionado y muy alto flipanteee,muy alto flipanteee,-1,0.16580515429405637,Unknown
+448,Sonido distorsionado y muy alto cuando fue brutal,Sonido distorsionado,0,0.009773133861705719,rollo
+448,Sonido distorsionado y muy alto cuando fue brutal,muy alto cuando fue brutal,0,0.16972090406693435,rollo
+449,Aitana lo dieron todo,Aitana lo dieron,0,1.0,rollo
+450,Me encantó la comida del festival,Me encantó la comida del festival,1,0.25504670779439204,comida
+451,Carísima y mala la comida,mala la comida,1,1.0,comida
+452,Me encantó la comida del festival,Me encantó la comida del festival,1,0.25562657929257887,comida
+453,sonido distorsionado y muy alto,sonido distorsionado,0,0.009787296916653655,rollo
+453,sonido distorsionado y muy alto,muy alto,-1,0.16611667148226317,Unknown
+454,tiempos de espera razonables,tiempos de espera razonables,-1,0.19496840231122367,Unknown
+455,volumen fatal lo dio todooo,volumen fatal lo dio todooo,0,0.03217595574579371,rollo
+456,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.00979738229155915,rollo
+456,Sonido distorsionado y muy alto,muy alto,-1,0.16587737537452296,Unknown
+457,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+458,esperamos muchísimo para entrar flipanteee,esperamos muchísimo para entrar flipanteee,0,0.010858588055408637,rollo
+459,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+460,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+460,Ambiente cargado y mal rollo,mal rollo,0,0.01052402792760498,rollo
+461,esperamos muchísimo para entrar,esperamos muchísimo para entrar,0,0.010853554638465688,rollo
+462,buhos decepcionante,buhos decepcionante,0,0.36104844546138576,rollo
+463,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+464,Ambiente cargado y mal rollo vibraaa,Ambiente cargado,2,1.0,ambiente
+464,Ambiente cargado y mal rollo vibraaa,mal rollo vibraaa,0,0.010500786258862232,rollo
+465,Rosalía decepcionante,Rosalía decepcionante,0,0.6946114673166919,rollo
+466,el sonido fue perfecto,el sonido fue perfecto,5,1.0,ambiente
+467,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+468,The Tyets lo dieron todo,The Tyets lo dieron todo,0,0.3648220527414696,rollo
+469,No había casi colas,No había casi colas,2,1.0,ambiente
+470,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+471,Volumen fatal,Volumen fatal,0,0.0318986262755083,rollo
+472,Organización como cualquier festival bno,Organización como cualquier festival bno,-1,0.23532146571128143,Unknown
+473,Bad Gyal decepcionante,Bad Gyal decepcionante,0,0.0995092450373127,rollo
+474,Ambiente cargado y mal rollo genialll,Ambiente cargado,2,1.0,ambiente
+474,Ambiente cargado y mal rollo genialll,mal rollo genialll,0,0.010449478977818184,rollo
+475,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+476,demasiada gente agobiante,demasiada gente agobiante,0,0.010349333388515718,rollo
+477,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+478,Ambiente cargado y mal rollo flipanteee,Ambiente cargado,2,1.0,ambiente
+478,Ambiente cargado y mal rollo flipanteee,mal rollo flipanteee,0,0.010515554465673045,rollo
+479,Buhos hizo vibrar al público,Buhos hizo vibrar al público,0,1.0,rollo
+480,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+481,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009762263900156167,rollo
+481,Sonido distorsionado y muy alto,muy alto,-1,0.16528932205442753,Unknown
+482,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+483,Quevedo lo dieron todo,Quevedo lo dieron todo,0,0.36902107599903267,rollo
+484,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+485,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19387332160197857,Unknown
+486,rosalía decepcionante,rosalía decepcionante,0,0.6804809089744595,rollo
+487,el sonido fue perfecto,el sonido fue perfecto,5,1.0,ambiente
+488,todo muy bien organizado,todo muy bien organizado,4,1.0,ambiente
+489,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+490,ambiente regular como siempre,regular como siempre,4,1.0,ambiente
+491,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+491,Ambiente cargado y mal rollo,mal rollo,0,0.01053837514626496,rollo
+492,Audio brutal,Audio brutal,0,0.01231085535763992,rollo
+493,Organización como cualquier festival,Organización como cualquier festival,-1,0.23558583406666855,Unknown
+494,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009783918266413887,rollo
+494,Sonido distorsionado y muy alto,muy alto,-1,0.16569638675177628,Unknown
+495,Colas interminables un desastre toa,Colas interminables un desastre toa,6,1.0,desastre
+496,desastre en la organización,desastre en la organización,3,1.0,organización
+497,Lildami lo dieron todo no convenciooo,Lildami lo dieron todo no convenciooo,0,0.36703347390699004,rollo
+498,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+499,Organización como cualquier festival,Organización como cualquier festival,-1,0.23539398368823106,Unknown
+500,organización como cualquier festival,organización como cualquier festival,-1,0.235023614939263,Unknown
+501,muy buen ambiente toa,muy buen ambiente toa,5,1.0,ambiente
+502,El sonido fue perfecto bno,El sonido fue perfecto bno,5,1.0,ambiente
+503,ambiente cargado y mal rollo,ambiente cargado,2,1.0,ambiente
+503,ambiente cargado y mal rollo,mal rollo,0,0.01055020408429361,rollo
+504,Demasiada gente agobiante k porque fue brutal,Demasiada gente agobiante,0,0.010332005759036398,rollo
+504,Demasiada gente agobiante k porque fue brutal,porque fue brutal,0,0.1748785369626318,rollo
+505,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009726156688567739,rollo
+505,Sonido distorsionado y muy alto,muy alto,-1,0.16534359700364212,Unknown
+506,ambiente regular como siempre,regular como siempre,4,1.0,ambiente
+507,rigoberta bandini hizo vibrar al público porque fue brutal,rigoberta bandini hizo vibrar al público porque fue brutal,0,1.0,rollo
+508,esperamos muchísimo para entrar,esperamos muchísimo para entrar,0,0.010858710877095064,rollo
+509,Todo muy bien organizado ya que fue brutal,Todo muy bien organizado ya que fue brutal,4,1.0,ambiente
+510,Buhos estuvo genial,Buhos estuvo genial,0,0.3491002686378414,rollo
+511,Buhos hizo vibrar al público mientras fue brutal,Buhos hizo vibrar al público mientras fue brutal,0,1.0,rollo
+512,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+513,Audio brutal,Audio brutal,0,0.012334085843250495,rollo
+514,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010249116836853025,rollo
+515,Desastre en la organización vibraaa,Desastre en la organización vibraaa,3,1.0,organización
+516,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+517,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19374564445828885,Unknown
+518,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.00974032369609071,rollo
+518,Sonido distorsionado y muy alto,muy alto,-1,0.1653964966914357,Unknown
+519,Stay Homas lo dieron todo,Stay Homas lo dieron todo,0,0.3246213003312417,rollo
+520,Demasiada gente agobiante super biennn,Demasiada gente agobiante super biennn,0,0.010354681339223857,rollo
+521,Stay Homas hizo vibrar al público cuando fue brutal,Stay Homas hizo vibrar al público cuando fue brutal,0,0.32467449467386206,rollo
+522,sonido distorsionado y muy alto,sonido distorsionado,0,0.009783184269460418,rollo
+522,sonido distorsionado y muy alto,muy alto,-1,0.16558046156446588,Unknown
+523,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010243047830642477,rollo
+524,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+525,Volumen fatal lo dio todooo,Volumen fatal lo dio todooo,0,0.03223434819025132,rollo
+526,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+526,Ambiente cargado y mal rollo,mal rollo,0,0.010526382387190522,rollo
+527,Muy mal organizado todo lo dio todooo,Muy mal organizado,3,1.0,organización
+527,Muy mal organizado todo lo dio todooo,todo lo dio todooo,0,0.36796521639504026,rollo
+528,No había casi colas,No había casi colas,2,1.0,ambiente
+529,No había casi colas porque fue brutal,No había casi colas porque fue brutal,0,0.17460732729432693,rollo
+530,Stay Homas decepcionante,Stay Homas decepcionante,0,0.32529835062801715,rollo
+531,Bad Gyal decepcionante porque fue brutal,Bad Gyal decepcionante porque fue brutal,0,0.09965613819258345,rollo
+532,Volumen fatal aunque fue brutal,Volumen fatal aunque fue brutal,0,0.17040142932918298,rollo
+533,Muy buen ambiente,Muy buen ambiente,5,1.0,ambiente
+534,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010250328195539284,rollo
+535,Bad Gyal hizo vibrar al público,Bad Gyal hizo vibrar al público,0,0.10658890931521076,rollo
+536,Carísima y mala la comida,mala la comida,1,1.0,comida
+537,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009743487059953905,rollo
+537,Sonido distorsionado y muy alto,muy alto,-1,0.16585588849040378,Unknown
+538,audio brutal,audio brutal,0,0.012306736819113246,rollo
+539,esperamos muchísimo para entrar,esperamos muchísimo para entrar,0,0.01085869873380758,rollo
+540,Demasiada gente agobiante ya que fue brutal,Demasiada gente agobiante ya que fue brutal,0,0.17926211798667113,rollo
+541,Quevedo decepcionante ya que fue brutal,Quevedo decepcionante ya que fue brutal,0,0.1927491491427256,rollo
+542,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+543,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+544,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010247140151866277,rollo
+545,Organización como cualquier festival,Organización como cualquier festival,-1,0.23506511060351587,Unknown
+546,Carísima y mala la comida,mala la comida,1,1.0,comida
+547,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+547,Ambiente cargado y mal rollo,mal rollo,0,0.010486809063568745,rollo
+548,Comida normal nada especial,Comida normal,1,0.22837506338713529,comida
+548,Comida normal nada especial,nada especial,-1,0.05708228213234449,Unknown
+549,Volumen fatal mientras fue brutal,Volumen fatal,0,0.031889858003792945,rollo
+549,Volumen fatal mientras fue brutal,mientras fue brutal,0,0.1736240796620777,rollo
+550,rigoberta bandini lo dieron todo aunque fue brutal,rigoberta bandini lo dieron todo aunque fue brutal,0,0.17648005556063132,rollo
+551,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19386602233486055,Unknown
+552,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+552,Ambiente cargado y mal rollo,mal rollo,0,0.01051590873210033,rollo
+553,Stay Homas lo dieron todo,Stay Homas lo dieron todo,0,0.32566928341652335,rollo
+554,No había casi colas,No había casi colas,2,1.0,ambiente
+555,organización como cualquier festival,organización como cualquier festival,-1,0.2350840685652211,Unknown
+556,Buhos decepcionante no convenciooo aunque fue brutal,Buhos decepcionante no convenciooo aunque fue brutal,0,0.19326379940598715,rollo
+557,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+558,organización como cualquier festival,organización como cualquier festival,-1,0.23483836075334874,Unknown
+559,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+560,No había casi colas,No había casi colas,2,1.0,ambiente
+561,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+562,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+562,Ambiente cargado y mal rollo,mal rollo,0,0.01051116131773353,rollo
+563,No había casi colas,No había casi colas,2,1.0,ambiente
+564,Lildami hizo vibrar al público genialll,Lildami hizo vibrar al público genialll,0,1.0,rollo
+565,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+565,Ambiente cargado y mal rollo,mal rollo,0,0.010539516270231381,rollo
+566,Volumen fatal aunque fue brutal,Volumen fatal aunque fue brutal,0,0.16981251631130417,rollo
+567,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+568,Carísima y mala la comida,mala la comida,1,1.0,comida
+569,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+570,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+571,Tiempos de espera razonables super biennn,Tiempos de espera razonables super biennn,-1,0.19447000407140516,Unknown
+572,buhos hizo vibrar al público,buhos hizo vibrar al público,0,1.0,rollo
+573,Volumen fatal,Volumen fatal,0,0.03189927529732262,rollo
+574,carísima y mala la comida,mala la comida,1,1.0,comida
+575,Bad Gyal estuvo genial,Bad Gyal estuvo genial,0,0.10899937017758174,rollo
+576,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010259398061268995,rollo
+577,Ambiente cargado y mal rollo super biennn,Ambiente cargado,2,1.0,ambiente
+577,Ambiente cargado y mal rollo super biennn,mal rollo super biennn,0,0.010438610520995073,rollo
+578,No había casi colas,No había casi colas,2,1.0,ambiente
+579,Comida normal nada especial cuando fue brutal,Comida normal nada especial cuando fue brutal,1,0.2396533710062509,comida
+580,esperamos muchísimo para entrar flipanteee,esperamos muchísimo para entrar flipanteee,0,0.010856639257847658,rollo
+581,tiempos de espera razonables,tiempos de espera razonables,-1,0.19478580326696815,Unknown
+582,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+583,Audio brutal,Audio brutal,0,0.012317949835294925,rollo
+584,no había casi colas,no había casi colas,2,1.0,ambiente
+585,Me encantó la comida del festival xq,Me encantó la comida del festival xq,1,0.2538610658647916,comida
+586,lola índigo estuvo genial,lola índigo estuvo genial,0,0.40757148827041484,rollo
+587,Colas interminables un desastre flipanteee,Colas interminables un desastre flipanteee,6,1.0,desastre
+588,No había casi colas,No había casi colas,2,1.0,ambiente
+589,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+590,Comida normal nada especial,Comida normal,1,0.2288287843438012,comida
+590,Comida normal nada especial,nada especial,-1,0.057031493648341744,Unknown
+591,no había casi colas,no había casi colas,2,1.0,ambiente
+592,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+593,Me encantó la comida del festival,Me encantó la comida del festival,1,0.2556214305609984,comida
+594,Demasiada gente agobiante,Demasiada gente agobiante,0,0.0103363791037274,rollo
+595,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19403005380585148,Unknown
+596,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+596,Ambiente cargado y mal rollo,mal rollo,0,0.010575302748771914,rollo
+597,organización como cualquier festival,organización como cualquier festival,-1,0.23462277725399786,Unknown
+598,colas interminables un desastre aunque fue brutal,colas interminables un desastre,6,1.0,desastre
+598,colas interminables un desastre aunque fue brutal,aunque fue brutal,0,0.1753442450175169,rollo
+599,desastre en la organización,desastre en la organización,3,1.0,organización
+600,Lola Índigo hizo vibrar al público,Lola Índigo hizo vibrar al público,0,1.0,rollo
+601,Rosalía hizo vibrar al público,Rosalía hizo vibrar al público,0,1.0,rollo
+602,Comida normal nada especial,Comida normal,1,0.22822241844979343,comida
+602,Comida normal nada especial,nada especial,-1,0.05697683570403038,Unknown
+603,Sonido distorsionado y muy alto,Sonido distorsionado,0,0.009734404762197387,rollo
+603,Sonido distorsionado y muy alto,muy alto,-1,0.16523344451007418,Unknown
+604,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+605,No había casi colas,No había casi colas,2,1.0,ambiente
+606,Todo muy bien organizado aunque fue brutal,Todo muy bien organizado aunque fue brutal,4,1.0,ambiente
+607,Demasiada gente agobiante,Demasiada gente agobiante,0,0.010335922336056935,rollo
+608,Desastre en la organización,Desastre en la organización,3,1.0,organización
+609,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+610,Volumen fatal,Volumen fatal,0,0.03188871794601662,rollo
+611,lildami estuvo genial,estuvo genial,0,0.312742373728558,rollo
+612,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+613,Volumen fatal,Volumen fatal,0,0.0319124930860351,rollo
+614,sonido distorsionado y muy alto toa,sonido distorsionado,0,0.009792030396303828,rollo
+614,sonido distorsionado y muy alto toa,muy alto,-1,0.16561241198553175,Unknown
+615,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+616,esperamos muchísimo para entrar,esperamos muchísimo para entrar,0,0.010859190450875784,rollo
+617,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+618,Organización como cualquier festival no convenciooo,Organización como cualquier festival no convenciooo,-1,0.23553550750597688,Unknown
+619,Comida normal nada especial genialll,Comida normal nada especial genialll,1,0.23291257957562841,comida
+620,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19403012095639677,Unknown
+621,Desastre en la organización,Desastre en la organización,3,1.0,organización
+622,Volumen fatal,Volumen fatal,0,0.03191602244613407,rollo
+623,Audio brutal,Audio brutal,0,0.012311883429858048,rollo
+624,Organización como cualquier festival no convenciooo,Organización como cualquier festival no convenciooo,-1,0.23546451597532134,Unknown
+625,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+626,Carísima y mala la comida,mala la comida,1,1.0,comida
+627,Demasiada gente agobiante,Demasiada gente agobiante,0,0.010339310003794396,rollo
+628,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19422575934400452,Unknown
+629,Bad Gyal lo dieron todo,Bad Gyal lo dieron todo,0,0.11119934310180705,rollo
+630,Lola Índigo hizo vibrar al público porque fue brutal,Lola Índigo hizo vibrar al público porque fue brutal,0,1.0,rollo
+631,Demasiada gente agobiante,Demasiada gente agobiante,0,0.010337455039362344,rollo
+632,Ambiente cargado y mal rollo porque fue brutal,Ambiente cargado,2,1.0,ambiente
+632,Ambiente cargado y mal rollo porque fue brutal,mal rollo porque fue brutal,0,0.1925942246581897,rollo
+633,the tyets lo dieron todo toa,the tyets lo dieron todo toa,0,0.3582674178482876,rollo
+634,Me encantó la comida del festival mientras fue brutal,Me encantó la comida del festival mientras fue brutal,1,1.0,comida
+635,The Tyets decepcionante,The Tyets decepcionante,0,0.361155538043647,rollo
+636,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+637,esperamos muchísimo para entrar,esperamos muchísimo para entrar,0,0.010858957281719086,rollo
+638,Desastre en la organización,Desastre en la organización,3,1.0,organización
+639,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+640,Comida normal nada especial cuando fue brutal,Comida normal nada especial cuando fue brutal,1,0.23953559252608556,comida
+641,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+642,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19411785797855155,Unknown
+643,Bad Gyal hizo vibrar al público xq,Bad Gyal hizo vibrar al público xq,0,0.10580407502855294,rollo
+644,No había casi colas,No había casi colas,2,1.0,ambiente
+645,Comida normal nada especial,Comida normal,1,0.22808126880313878,comida
+645,Comida normal nada especial,nada especial,-1,0.057052573460483154,Unknown
+646,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.19416829681549813,Unknown
+647,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+648,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+649,Stay Homas decepcionante cuando fue brutal,Stay Homas decepcionante cuando fue brutal,0,0.31792215280785413,rollo
+650,Sonido distorsionado y muy alto porque fue brutal,Sonido distorsionado,0,0.009736664750157888,rollo
+650,Sonido distorsionado y muy alto porque fue brutal,muy alto porque fue brutal,0,0.16966376463488222,rollo
+651,todo muy bien organizado porque fue brutal,todo muy bien organizado,4,1.0,ambiente
+651,todo muy bien organizado porque fue brutal,porque fue brutal,0,0.17618238671679795,rollo
+652,Rigoberta Bandini decepcionante no convenciooo,Rigoberta Bandini decepcionante no convenciooo,0,1.0,rollo
+653,Buhos estuvo genial,Buhos estuvo genial,0,0.3489417850302093,rollo
+654,rosalía decepcionante porque fue brutal,rosalía decepcionante porque fue brutal,0,0.49938212299456974,rollo
+655,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010241983626595752,rollo
+656,Muy mal organizado todo,Muy mal organizado todo,3,1.0,organización
+657,Rigoberta Bandini lo dieron todo,Rigoberta Bandini lo dieron todo,0,1.0,rollo
+658,ambiente regular como siempre,regular como siempre,4,1.0,ambiente
+659,Me encantó la comida del festival,Me encantó la comida del festival,1,0.2558085071635154,comida
+660,No había casi colas,No había casi colas,2,1.0,ambiente
+661,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+662,Desastre en la organización,Desastre en la organización,3,1.0,organización
+663,No había casi colas,No había casi colas,2,1.0,ambiente
+664,Esperamos muchísimo para entrar,Esperamos muchísimo para entrar,0,0.010235666760249293,rollo
+665,Muy buen ambiente super biennn,Muy buen ambiente super biennn,5,1.0,ambiente
+666,todo muy bien organizado,todo muy bien organizado,4,1.0,ambiente
+667,no había casi colas,no había casi colas,2,1.0,ambiente
+668,Quevedo lo dieron todo no convenciooo,Quevedo lo dieron todo no convenciooo,0,0.36311782389134545,rollo
+669,Muy buen ambiente aunque fue brutal,Muy buen ambiente,5,1.0,ambiente
+669,Muy buen ambiente aunque fue brutal,aunque fue brutal,0,0.17551427029016098,rollo
+670,la comida estuvo increíble,la comida estuvo increíble,1,1.0,comida
+671,Aitana estuvo genial mientras fue brutal,Aitana estuvo genial mientras fue brutal,0,1.0,rollo
+672,Desastre en la organización,Desastre en la organización,3,1.0,organización
+673,Ambiente regular como siempre,Ambiente regular como siempre,4,1.0,ambiente
+674,No había casi colas,No había casi colas,2,1.0,ambiente
+675,Volumen fatal,Volumen fatal,0,0.031942357098341104,rollo
+676,desastre en la organización bno,desastre en la organización bno,3,1.0,organización
+677,Demasiada gente agobiante,Demasiada gente agobiante,0,0.010341013522706215,rollo
+678,stay homas estuvo genial ya que fue brutal,stay homas estuvo genial ya que fue brutal,0,0.3245765091149456,rollo
+679,Sonido distorsionado y muy alto lo dio todooo,Sonido distorsionado,0,0.009750635015319517,rollo
+679,Sonido distorsionado y muy alto lo dio todooo,muy alto lo dio todooo,-1,0.1661594805782764,Unknown
+680,Carísima y mala la comida,mala la comida,1,1.0,comida
+681,no había casi colas,no había casi colas,2,1.0,ambiente
+682,Ambiente cargado y mal rollo,Ambiente cargado,2,1.0,ambiente
+682,Ambiente cargado y mal rollo,mal rollo,0,0.010554690470192333,rollo
+683,bad gyal lo dieron todo,bad gyal lo dieron todo,0,0.11308107708689735,rollo
+684,ambiente regular como siempre,regular como siempre,4,1.0,ambiente
+685,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+686,La comida estuvo increíble,La comida estuvo increíble,1,1.0,comida
+687,Quevedo estuvo genial,Quevedo estuvo genial,0,0.31647168796944924,rollo
+688,Tiempos de espera razonables,Tiempos de espera razonables,-1,0.1936315956611805,Unknown
+689,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+690,Colas interminables un desastre,Colas interminables un desastre,6,1.0,desastre
+691,Organización como cualquier festival,Organización como cualquier festival,-1,0.23565432357912067,Unknown
+692,el sonido fue perfecto flipanteee,el sonido fue perfecto flipanteee,5,1.0,ambiente
+693,Demasiada gente agobiante vibraaa,Demasiada gente agobiante vibraaa,0,0.01035444500206206,rollo
+694,The Tyets estuvo genial,The Tyets estuvo genial,0,0.36103364874518645,rollo
+695,El sonido fue perfecto,El sonido fue perfecto,5,1.0,ambiente
+696,Comida normal nada especial aunque fue brutal,Comida normal nada especial aunque fue brutal,1,0.23936536349047458,comida
+697,stay homas decepcionante,stay homas decepcionante,0,0.32647083084638384,rollo
+698,Todo muy bien organizado,Todo muy bien organizado,4,1.0,ambiente
+699,colas interminables un desastre,colas interminables,6,1.0,desastre
+699,colas interminables un desastre,un desastre,6,1.0,desastre
