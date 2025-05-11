@@ -1,0 +1,701 @@
+original_tweet_id,original_tweet_text,Assigned_Topic_ID,Assignment_Confidence,Assigned_Topic_Name
+0,Lildami lo dieron todo toa,0,0.6173788150384787,público
+1,me encantó la comida del festival xq,-1,0.1553663293023996,Unknown
+2,The Tyets hizo vibrar al público,0,1.0,público
+3,Audio brutal,1,1.0,audio
+4,La comida estuvo increíble,-1,0.15620706630644718,Unknown
+5,esperamos muchísimo para entrar,2,1.0,ambiente
+6,Ambiente regular como siempre xq,2,1.0,ambiente
+7,Audio brutal,1,1.0,audio
+8,Sonido distorsionado y muy alto porque fue brutal,3,1.0,sonido
+9,Audio brutal,1,1.0,audio
+10,The Tyets lo dieron todo,0,0.5722883682136481,público
+11,Quevedo estuvo genial,0,0.549924207502897,público
+12,Sonido distorsionado y muy alto,3,1.0,sonido
+13,audio brutal toa,1,1.0,audio
+14,Bad Gyal lo dieron todo,0,0.17763831282306577,público
+15,La comida estuvo increíble,-1,0.1562515914047722,Unknown
+16,me encantó la comida del festival bno,-1,0.1550810295675831,Unknown
+17,No había casi colas,-1,0.17637404672291102,Unknown
+18,El sonido fue perfecto ya que fue brutal,4,1.0,volumen
+19,Muy buen ambiente cuando fue brutal,0,0.8514535251781236,público
+20,Tiempos de espera razonables,-1,0.18914332388197178,Unknown
+21,Tiempos de espera razonables,-1,0.1891283669679947,Unknown
+22,Muy mal organizado todo porque fue brutal,1,1.0,audio
+23,Tiempos de espera razonables k,-1,0.18855038687206,Unknown
+24,Ambiente regular como siempre,2,1.0,ambiente
+25,Esperamos muchísimo para entrar,2,1.0,ambiente
+26,Ambiente cargado y mal rollo,1,0.2667408699716314,audio
+27,Me encantó la comida del festival porque fue brutal,-1,0.1573519499950403,Unknown
+28,desastre en la organización,5,1.0,organización
+29,La comida estuvo increíble,-1,0.15613147280541076,Unknown
+30,Organización como cualquier festival,-1,0.15887321104509003,Unknown
+31,Demasiada gente agobiante,-1,0.17019174452954328,Unknown
+32,The Tyets estuvo genial,0,0.554521496071506,público
+33,Rosalía lo dieron todo,0,1.0,público
+34,tiempos de espera razonables xq,-1,0.18892699580091674,Unknown
+35,Colas interminables un desastre,-1,0.1602975238146833,Unknown
+36,Demasiada gente agobiante,-1,0.17019775763418213,Unknown
+37,Muy buen ambiente,3,1.0,sonido
+38,Tiempos de espera razonables,-1,0.1884726779090417,Unknown
+39,Sonido distorsionado y muy alto,3,1.0,sonido
+40,Muy buen ambiente toa,3,1.0,sonido
+41,Sonido distorsionado y muy alto,3,1.0,sonido
+42,Ambiente cargado y mal rollo cuando fue brutal,0,1.0,público
+43,Carísima y mala la comida,-1,0.1517336188551911,Unknown
+44,Esperamos muchísimo para entrar super biennn,2,1.0,ambiente
+45,Tiempos de espera razonables genialll,-1,0.1879396533416231,Unknown
+46,Comida normal nada especial,-1,0.1709622526848365,Unknown
+47,Organización como cualquier festival,-1,0.15877749736668625,Unknown
+48,el sonido fue perfecto,4,1.0,volumen
+49,lildami estuvo genial,0,0.7525341478469,público
+50,Audio brutal,1,1.0,audio
+51,Buhos hizo vibrar al público bno,0,1.0,público
+52,rosalía decepcionante,0,1.0,público
+53,Muy buen ambiente,3,1.0,sonido
+54,Esperamos muchísimo para entrar cuando fue brutal,2,1.0,ambiente
+55,Buhos estuvo genial,0,0.5343863695458375,público
+56,Aitana decepcionante,0,1.0,público
+57,Audio brutal,1,1.0,audio
+58,Esperamos muchísimo para entrar bno,2,1.0,ambiente
+59,No había casi colas,-1,0.17623446471993132,Unknown
+60,Lildami lo dieron todo,0,0.5897976402481008,público
+61,Sonido distorsionado y muy alto porque fue brutal,3,1.0,sonido
+62,Esperamos muchísimo para entrar,2,1.0,ambiente
+63,organización como cualquier festival,-1,0.1693814854521401,Unknown
+64,comida normal nada especial,-1,0.16964045868879288,Unknown
+65,Comida normal nada especial,-1,0.17097589682331774,Unknown
+66,Desastre en la organización,5,1.0,organización
+67,Muy mal organizado todo,1,1.0,audio
+68,Organización como cualquier festival bno,-1,0.15887280204553353,Unknown
+69,tiempos de espera razonables,-1,0.18907864017775367,Unknown
+70,Muy mal organizado todo,1,1.0,audio
+71,Colas interminables un desastre,-1,0.16037390062294665,Unknown
+72,Ambiente cargado y mal rollo,1,0.26617650014412175,audio
+73,Muy mal organizado todo genialll,1,1.0,audio
+74,Rigoberta Bandini hizo vibrar al público,0,1.0,público
+75,bad gyal lo dieron todo cuando fue brutal,0,0.18512334898083305,público
+76,Muy mal organizado todo,1,1.0,audio
+77,ambiente cargado y mal rollo,1,0.2656837439985043,audio
+78,Rosalía lo dieron todo porque fue brutal,0,0.8937498536182614,público
+79,Todo muy bien organizado,5,1.0,organización
+80,El sonido fue perfecto,4,1.0,volumen
+81,Ambiente cargado y mal rollo porque fue brutal,0,1.0,público
+82,Muy buen ambiente mientras fue brutal,0,0.8412734854812995,público
+83,demasiada gente agobiante,-1,0.1703108145184709,Unknown
+84,Ambiente cargado y mal rollo,1,0.2653773033367365,audio
+85,Ambiente cargado y mal rollo,1,0.26640559455499047,audio
+86,Sonido distorsionado y muy alto,3,1.0,sonido
+87,Todo muy bien organizado,5,1.0,organización
+88,Demasiada gente agobiante,-1,0.1702753839245249,Unknown
+89,Me encantó la comida del festival,-1,0.15578220316296246,Unknown
+90,todo muy bien organizado,5,1.0,organización
+91,Esperamos muchísimo para entrar,2,1.0,ambiente
+92,Ambiente cargado y mal rollo porque fue brutal,0,1.0,público
+93,The Tyets estuvo genial,0,0.5550972184947149,público
+94,No había casi colas,-1,0.1763853130219217,Unknown
+95,Ambiente regular como siempre,2,1.0,ambiente
+96,audio brutal bno,1,1.0,audio
+97,Sonido distorsionado y muy alto,3,1.0,sonido
+98,la comida estuvo increíble,-1,0.15620780286249253,Unknown
+99,Me encantó la comida del festival,-1,0.15571063530720047,Unknown
+100,Muy mal organizado todo,1,1.0,audio
+101,Colas interminables un desastre,-1,0.16042525415336914,Unknown
+102,Volumen fatal,4,1.0,volumen
+103,Todo muy bien organizado,5,1.0,organización
+104,Lola Índigo decepcionante,0,0.8823267927552082,público
+105,rigoberta bandini decepcionante,0,1.0,público
+106,esperamos muchísimo para entrar,2,1.0,ambiente
+107,Esperamos muchísimo para entrar,2,1.0,ambiente
+108,colas interminables un desastre,0,0.3000606057483964,público
+109,Carísima y mala la comida,-1,0.15163776165923382,Unknown
+110,Organización como cualquier festival,-1,0.1589031436499455,Unknown
+111,Desastre en la organización,5,1.0,organización
+112,Bad Gyal decepcionante,0,0.15976674291999415,público
+113,Ambiente cargado y mal rollo mientras fue brutal,0,1.0,público
+114,Carísima y mala la comida,-1,0.1516199886933458,Unknown
+115,No había casi colas mientras fue brutal,-1,0.17698592160593501,Unknown
+116,aitana decepcionante,0,1.0,público
+117,La comida estuvo increíble,-1,0.1562319344794367,Unknown
+118,Quevedo hizo vibrar al público,0,1.0,público
+119,Tiempos de espera razonables,-1,0.18893312944618057,Unknown
+120,Colas interminables un desastre,-1,0.16043445393331582,Unknown
+121,Desastre en la organización,5,1.0,organización
+122,Organización como cualquier festival,-1,0.15867986606671852,Unknown
+123,Muy mal organizado todo,1,1.0,audio
+124,Quevedo estuvo genial flipanteee,0,0.5442494282201936,público
+125,desastre en la organización super biennn ya que fue brutal,5,1.0,organización
+126,Buhos lo dieron todo,0,0.6268469621996978,público
+127,lola índigo lo dieron todo,0,0.6044675514334894,público
+128,Stay Homas hizo vibrar al público porque fue brutal,0,0.31888125761678165,público
+129,Carísima y mala la comida,-1,0.15163095384867634,Unknown
+130,tiempos de espera razonables lo dio todooo,-1,0.1879675264521316,Unknown
+131,Tiempos de espera razonables,-1,0.18903556743651134,Unknown
+132,ambiente regular como siempre,2,1.0,ambiente
+133,Muy mal organizado todo,1,1.0,audio
+134,Me encantó la comida del festival,-1,0.15538210135195593,Unknown
+135,Rosalía decepcionante,0,1.0,público
+136,The Tyets decepcionante,0,0.9785185804981663,público
+137,Stay Homas estuvo genial,0,0.279414426322311,público
+138,tiempos de espera razonables,-1,0.18915138047966523,Unknown
+139,Sonido distorsionado y muy alto,3,1.0,sonido
+140,Muy mal organizado todo porque fue brutal,1,1.0,audio
+141,Aitana hizo vibrar al público mientras fue brutal,0,1.0,público
+142,Demasiada gente agobiante,-1,0.17040548747879322,Unknown
+143,El sonido fue perfecto,4,1.0,volumen
+144,Lildami hizo vibrar al público k,0,1.0,público
+145,Todo muy bien organizado,5,1.0,organización
+146,Lola Índigo hizo vibrar al público,0,1.0,público
+147,no había casi colas,-1,0.17670404025848305,Unknown
+148,Demasiada gente agobiante,-1,0.17016434503951952,Unknown
+149,audio brutal,1,1.0,audio
+150,Comida normal nada especial,-1,0.17116926623423342,Unknown
+151,Tiempos de espera razonables,-1,0.1893723861237998,Unknown
+152,No había casi colas super biennn,-1,0.1767478022529108,Unknown
+153,la comida estuvo increíble,-1,0.15619886593474874,Unknown
+154,carísima y mala la comida,-1,0.15170774334124595,Unknown
+155,Muy mal organizado todo no convenciooo,1,1.0,audio
+156,Quevedo decepcionante vibraaa,0,1.0,público
+157,me encantó la comida del festival flipanteee porque fue brutal,-1,0.15731460055312374,Unknown
+158,Bad Gyal decepcionante,0,0.16159060470635464,público
+159,La comida estuvo increíble,-1,0.15635416067357508,Unknown
+160,Audio brutal,1,1.0,audio
+161,Bad Gyal decepcionante,0,0.15966749736360306,público
+162,Todo muy bien organizado toa,5,1.0,organización
+163,El sonido fue perfecto,4,1.0,volumen
+164,Ambiente cargado y mal rollo,1,0.2660699098883336,audio
+165,ambiente regular como siempre,2,1.0,ambiente
+166,Colas interminables un desastre,-1,0.16009652480879458,Unknown
+167,Colas interminables un desastre,-1,0.160420674414144,Unknown
+168,buhos decepcionante,0,1.0,público
+169,el sonido fue perfecto,4,1.0,volumen
+170,Sonido distorsionado y muy alto,3,1.0,sonido
+171,El sonido fue perfecto,4,1.0,volumen
+172,Muy mal organizado todo,1,1.0,audio
+173,Aitana hizo vibrar al público lo dio todooo,0,1.0,público
+174,Ambiente regular como siempre cuando fue brutal,2,1.0,ambiente
+175,Audio brutal,1,1.0,audio
+176,Ambiente cargado y mal rollo k,1,0.2646356199548552,audio
+177,Esperamos muchísimo para entrar aunque fue brutal,2,1.0,ambiente
+178,Audio brutal aunque fue brutal,1,1.0,audio
+179,Colas interminables un desastre,-1,0.16020549852358132,Unknown
+180,El sonido fue perfecto,4,1.0,volumen
+181,stay homas estuvo genial,0,0.27860631387197526,público
+182,Quevedo estuvo genial,0,0.5474381193895306,público
+183,No había casi colas,-1,0.1764448477728456,Unknown
+184,lola índigo decepcionante,0,1.0,público
+185,carísima y mala la comida,-1,0.15164305630269292,Unknown
+186,Esperamos muchísimo para entrar,2,1.0,ambiente
+187,Lola Índigo decepcionante aunque fue brutal,0,0.8583392399988963,público
+188,Muy buen ambiente,3,1.0,sonido
+189,Organización como cualquier festival,-1,0.15846809768740674,Unknown
+190,buhos lo dieron todo lo dio todooo,0,0.5956197825730044,público
+191,buhos estuvo genial,0,0.5304967457044587,público
+192,Rigoberta Bandini hizo vibrar al público,0,1.0,público
+193,Muy buen ambiente,3,1.0,sonido
+194,Sonido distorsionado y muy alto,3,1.0,sonido
+195,La comida estuvo increíble,-1,0.15618779598241808,Unknown
+196,Lola Índigo estuvo genial,0,1.0,público
+197,audio brutal,1,1.0,audio
+198,Esperamos muchísimo para entrar,2,1.0,ambiente
+199,Audio brutal,1,1.0,audio
+200,Volumen fatal vibraaa,4,1.0,volumen
+201,La comida estuvo increíble,-1,0.15625944876340017,Unknown
+202,El sonido fue perfecto,4,1.0,volumen
+203,La comida estuvo increíble,-1,0.15616695165712416,Unknown
+204,La comida estuvo increíble,-1,0.15619271942104715,Unknown
+205,Ambiente regular como siempre,2,1.0,ambiente
+206,Comida normal nada especial,-1,0.171051979141912,Unknown
+207,Comida normal nada especial lo dio todooo,-1,0.17033719429949834,Unknown
+208,Me encantó la comida del festival no convenciooo,-1,0.15582182285148805,Unknown
+209,Muy buen ambiente,3,1.0,sonido
+210,carísima y mala la comida,-1,0.1517269572872795,Unknown
+211,Esperamos muchísimo para entrar lo dio todooo,2,1.0,ambiente
+212,La comida estuvo increíble,-1,0.15604802761797767,Unknown
+213,Rosalía estuvo genial,0,1.0,público
+214,Rigoberta Bandini hizo vibrar al público vibraaa porque fue brutal,0,1.0,público
+215,Carísima y mala la comida,-1,0.15159463804874074,Unknown
+216,Buhos decepcionante genialll,0,1.0,público
+217,Desastre en la organización,5,1.0,organización
+218,Muy mal organizado todo mientras fue brutal,1,1.0,audio
+219,Sonido distorsionado y muy alto bno,3,1.0,sonido
+220,Desastre en la organización genialll,5,1.0,organización
+221,Bad Gyal lo dieron todo,0,0.1794096745355413,público
+222,audio brutal genialll,1,1.0,audio
+223,Comida normal nada especial,-1,0.17082001072802597,Unknown
+224,No había casi colas,-1,0.17649822124244632,Unknown
+225,Aitana hizo vibrar al público,0,1.0,público
+226,Muy mal organizado todo,1,1.0,audio
+227,Comida normal nada especial ya que fue brutal,-1,0.16905256235035973,Unknown
+228,Lildami decepcionante,0,1.0,público
+229,ambiente regular como siempre cuando fue brutal,2,1.0,ambiente
+230,Esperamos muchísimo para entrar,2,1.0,ambiente
+231,Desastre en la organización,5,1.0,organización
+232,Quevedo hizo vibrar al público,0,1.0,público
+233,Rigoberta Bandini estuvo genial aunque fue brutal,0,1.0,público
+234,Ambiente regular como siempre,2,1.0,ambiente
+235,demasiada gente agobiante,-1,0.17042919017685032,Unknown
+236,Colas interminables un desastre,-1,0.16030910371301763,Unknown
+237,lola índigo decepcionante mientras fue brutal,0,0.9725169693350445,público
+238,Audio brutal no convenciooo,1,1.0,audio
+239,Desastre en la organización k,5,1.0,organización
+240,Muy mal organizado todo,1,1.0,audio
+241,Ambiente regular como siempre porque fue brutal,2,1.0,ambiente
+242,ambiente regular como siempre lo dio todooo,2,1.0,ambiente
+243,sonido distorsionado y muy alto,3,1.0,sonido
+244,muy buen ambiente,3,1.0,sonido
+245,colas interminables un desastre,0,0.29937430283889077,público
+246,Todo muy bien organizado,5,1.0,organización
+247,Todo muy bien organizado,5,1.0,organización
+248,Me encantó la comida del festival,-1,0.15576743686906877,Unknown
+249,La comida estuvo increíble,-1,0.15632739955086258,Unknown
+250,Audio brutal super biennn,1,1.0,audio
+251,Tiempos de espera razonables,-1,0.18872688861819442,Unknown
+252,Sonido distorsionado y muy alto,3,1.0,sonido
+253,Esperamos muchísimo para entrar,2,1.0,ambiente
+254,Colas interminables un desastre,-1,0.16037547803524013,Unknown
+255,Tiempos de espera razonables,-1,0.189046460961518,Unknown
+256,Tiempos de espera razonables,-1,0.18853760709799158,Unknown
+257,Audio brutal,1,1.0,audio
+258,Colas interminables un desastre,-1,0.16007444631578358,Unknown
+259,Desastre en la organización,5,1.0,organización
+260,Demasiada gente agobiante,-1,0.17022349054253355,Unknown
+261,Sonido distorsionado y muy alto,3,1.0,sonido
+262,No había casi colas,-1,0.17633930730202252,Unknown
+263,Organización como cualquier festival,-1,0.15863620056476008,Unknown
+264,Muy mal organizado todo,1,1.0,audio
+265,no había casi colas,-1,0.17658814081936844,Unknown
+266,the tyets estuvo genial,0,0.5162346791437605,público
+267,Volumen fatal,4,1.0,volumen
+268,Sonido distorsionado y muy alto toa,3,1.0,sonido
+269,Rigoberta Bandini lo dieron todo,0,1.0,público
+270,Muy mal organizado todo flipanteee,1,1.0,audio
+271,Ambiente cargado y mal rollo,1,0.26647890577119177,audio
+272,no había casi colas super biennn,-1,0.17677448023269624,Unknown
+273,Buhos lo dieron todo,0,0.5969826533203986,público
+274,Aitana hizo vibrar al público porque fue brutal,0,1.0,público
+275,Sonido distorsionado y muy alto,3,1.0,sonido
+276,Colas interminables un desastre,-1,0.16053997385953062,Unknown
+277,Organización como cualquier festival,-1,0.1587559946945912,Unknown
+278,Muy buen ambiente,3,1.0,sonido
+279,Volumen fatal,4,1.0,volumen
+280,Organización como cualquier festival,-1,0.15870587782352985,Unknown
+281,no había casi colas mientras fue brutal,-1,0.1769363665532499,Unknown
+282,volumen fatal,4,1.0,volumen
+283,Stay Homas hizo vibrar al público porque fue brutal,0,0.3225046037702789,público
+284,Todo muy bien organizado,5,1.0,organización
+285,Comida normal nada especial genialll,-1,0.16976507068896077,Unknown
+286,me encantó la comida del festival,-1,0.155564145903617,Unknown
+287,Buhos hizo vibrar al público,0,1.0,público
+288,Organización como cualquier festival,-1,0.15869341069209386,Unknown
+289,Tiempos de espera razonables,-1,0.1885331757662082,Unknown
+290,Aitana hizo vibrar al público,0,1.0,público
+291,el sonido fue perfecto,4,1.0,volumen
+292,comida normal nada especial,-1,0.16976522948466855,Unknown
+293,La comida estuvo increíble,-1,0.15618531276889383,Unknown
+294,Carísima y mala la comida,-1,0.15160910401080618,Unknown
+295,Lildami estuvo genial,0,0.8451604785531056,público
+296,Ambiente regular como siempre,2,1.0,ambiente
+297,Aitana hizo vibrar al público cuando fue brutal,0,1.0,público
+298,Tiempos de espera razonables,-1,0.18873580308444346,Unknown
+299,Me encantó la comida del festival porque fue brutal,-1,0.1573505502438232,Unknown
+300,Muy buen ambiente porque fue brutal,0,0.8202184253227295,público
+301,stay homas lo dieron todo,0,0.2801438605477268,público
+302,Muy mal organizado todo,1,1.0,audio
+303,The Tyets hizo vibrar al público,0,1.0,público
+304,Ambiente cargado y mal rollo,1,0.26697459720611294,audio
+305,Todo muy bien organizado,5,1.0,organización
+306,Sonido distorsionado y muy alto,3,1.0,sonido
+307,Ambiente cargado y mal rollo,1,0.2665658735870441,audio
+308,Sonido distorsionado y muy alto,3,1.0,sonido
+309,Organización como cualquier festival mientras fue brutal,-1,0.16014436327189502,Unknown
+310,Colas interminables un desastre aunque fue brutal,-1,0.16023806363976784,Unknown
+311,organización como cualquier festival,-1,0.16938152009386193,Unknown
+312,Me encantó la comida del festival no convenciooo,-1,0.15535646937441067,Unknown
+313,Rosalía decepcionante,0,1.0,público
+314,El sonido fue perfecto,4,1.0,volumen
+315,ambiente cargado y mal rollo,1,0.26575196536925444,audio
+316,Stay Homas decepcionante,0,0.27581731161007983,público
+317,desastre en la organización super biennn cuando fue brutal,5,1.0,organización
+318,Muy buen ambiente,3,1.0,sonido
+319,lildami hizo vibrar al público bno,0,1.0,público
+320,carísima y mala la comida cuando fue brutal,-1,0.1518748775244668,Unknown
+321,Ambiente regular como siempre,2,1.0,ambiente
+322,Organización como cualquier festival ya que fue brutal,-1,0.1601012463566353,Unknown
+323,Sonido distorsionado y muy alto,3,1.0,sonido
+324,Demasiada gente agobiante,-1,0.17021945689078044,Unknown
+325,Organización como cualquier festival mientras fue brutal,-1,0.16015131818177206,Unknown
+326,el sonido fue perfecto,4,1.0,volumen
+327,buhos decepcionante bno,0,1.0,público
+328,la comida estuvo increíble,-1,0.156185254726922,Unknown
+329,Carísima y mala la comida,-1,0.15157680854063305,Unknown
+330,Me encantó la comida del festival no convenciooo,-1,0.15571020942567937,Unknown
+331,Tiempos de espera razonables,-1,0.18916926330794442,Unknown
+332,Volumen fatal,4,1.0,volumen
+333,Audio brutal ya que fue brutal,1,1.0,audio
+334,Ambiente cargado y mal rollo,1,0.2665041617156185,audio
+335,Lildami estuvo genial,0,0.8235297663132168,público
+336,Muy mal organizado todo,1,1.0,audio
+337,Demasiada gente agobiante mientras fue brutal,0,0.8443176455595769,público
+338,Colas interminables un desastre,-1,0.1603062455477807,Unknown
+339,Muy buen ambiente,3,1.0,sonido
+340,Lildami estuvo genial,0,0.8271646861459621,público
+341,Desastre en la organización,5,1.0,organización
+342,la comida estuvo increíble,-1,0.15615087425976684,Unknown
+343,Esperamos muchísimo para entrar,2,1.0,ambiente
+344,Comida normal nada especial,-1,0.1708479934077841,Unknown
+345,Desastre en la organización,5,1.0,organización
+346,La comida estuvo increíble porque fue brutal,-1,0.1568490171719782,Unknown
+347,Ambiente regular como siempre cuando fue brutal,2,1.0,ambiente
+348,muy buen ambiente porque fue brutal,0,0.8975809099669915,público
+349,aitana estuvo genial,0,0.6612681831571534,público
+350,organización como cualquier festival,-1,0.16938146795892264,Unknown
+351,Audio brutal,1,1.0,audio
+352,La comida estuvo increíble,-1,0.15619900996065908,Unknown
+353,Me encantó la comida del festival,-1,0.15540155051459187,Unknown
+354,No había casi colas,-1,0.17639167667033195,Unknown
+355,Muy buen ambiente,3,1.0,sonido
+356,Ambiente regular como siempre cuando fue brutal,2,1.0,ambiente
+357,Organización como cualquier festival ya que fue brutal,-1,0.16018239177834107,Unknown
+358,No había casi colas,-1,0.17652892755694768,Unknown
+359,Esperamos muchísimo para entrar,2,1.0,ambiente
+360,El sonido fue perfecto porque fue brutal,4,1.0,volumen
+361,Audio brutal toa,1,1.0,audio
+362,Muy buen ambiente,3,1.0,sonido
+363,Lildami estuvo genial bno,0,0.8533273097579,público
+364,Organización como cualquier festival,-1,0.15869082533611714,Unknown
+365,esperamos muchísimo para entrar xq,2,1.0,ambiente
+366,No había casi colas,-1,0.17644937066641758,Unknown
+367,colas interminables un desastre,0,0.29926649192748456,público
+368,the tyets estuvo genial,0,0.5501340970655377,público
+369,Organización como cualquier festival,-1,0.15899105014987197,Unknown
+370,Aitana hizo vibrar al público,0,1.0,público
+371,Todo muy bien organizado cuando fue brutal,1,1.0,audio
+372,Aitana lo dieron todo,0,0.5865103695616906,público
+373,Demasiada gente agobiante vibraaa,-1,0.1704580831010799,Unknown
+374,La comida estuvo increíble porque fue brutal,-1,0.15685698961368627,Unknown
+375,Comida normal nada especial,-1,0.1709491143353278,Unknown
+376,Demasiada gente agobiante,-1,0.17024755917862736,Unknown
+377,Muy mal organizado todo,1,1.0,audio
+378,me encantó la comida del festival,-1,0.1555622572703626,Unknown
+379,Carísima y mala la comida,-1,0.1516726450894919,Unknown
+380,me encantó la comida del festival ya que fue brutal,-1,0.1573468272883859,Unknown
+381,Volumen fatal mientras fue brutal,4,1.0,volumen
+382,Organización como cualquier festival,-1,0.15861611322191468,Unknown
+383,el sonido fue perfecto lo dio todooo,4,1.0,volumen
+384,Sonido distorsionado y muy alto,3,1.0,sonido
+385,Muy buen ambiente,3,1.0,sonido
+386,Esperamos muchísimo para entrar xq,2,1.0,ambiente
+387,Todo muy bien organizado,5,1.0,organización
+388,Audio brutal,1,1.0,audio
+389,la comida estuvo increíble,-1,0.15618018314049892,Unknown
+390,Muy mal organizado todo,1,1.0,audio
+391,Comida normal nada especial,-1,0.17089457277552153,Unknown
+392,Sonido distorsionado y muy alto,3,1.0,sonido
+393,Me encantó la comida del festival aunque fue brutal,-1,0.15735423500108164,Unknown
+394,La comida estuvo increíble,-1,0.15620177334125307,Unknown
+395,Rigoberta Bandini lo dieron todo,0,1.0,público
+396,demasiada gente agobiante,-1,0.17012995154462554,Unknown
+397,Me encantó la comida del festival flipanteee,-1,0.15556654939468614,Unknown
+398,Colas interminables un desastre,-1,0.16029047309097166,Unknown
+399,La comida estuvo increíble aunque fue brutal,-1,0.15668567618363222,Unknown
+400,Desastre en la organización,5,1.0,organización
+401,Volumen fatal,4,1.0,volumen
+402,la comida estuvo increíble,-1,0.1561920087739127,Unknown
+403,Carísima y mala la comida cuando fue brutal,-1,0.15167546072655297,Unknown
+404,Demasiada gente agobiante,-1,0.17017900480433912,Unknown
+405,volumen fatal mientras fue brutal,4,1.0,volumen
+406,Rosalía decepcionante,0,1.0,público
+407,Volumen fatal,4,1.0,volumen
+408,Muy buen ambiente,3,1.0,sonido
+409,Muy buen ambiente,3,1.0,sonido
+410,Colas interminables un desastre,-1,0.16018527204494246,Unknown
+411,Demasiada gente agobiante porque fue brutal,0,0.8834104855267502,público
+412,tiempos de espera razonables,-1,0.1891160178545716,Unknown
+413,Ambiente cargado y mal rollo porque fue brutal,0,1.0,público
+414,Muy buen ambiente porque fue brutal,0,0.8173868233194111,público
+415,Todo muy bien organizado,5,1.0,organización
+416,organización como cualquier festival super biennn aunque fue brutal,-1,0.16010271146172247,Unknown
+417,Volumen fatal,4,1.0,volumen
+418,No había casi colas toa,-1,0.17666398584623544,Unknown
+419,sonido distorsionado y muy alto mientras fue brutal,3,1.0,sonido
+420,Rosalía hizo vibrar al público,0,1.0,público
+421,Ambiente cargado y mal rollo flipanteee,1,0.26452080979319104,audio
+422,desastre en la organización porque fue brutal,5,1.0,organización
+423,Colas interminables un desastre,-1,0.16016377423623468,Unknown
+424,Muy mal organizado todo,1,1.0,audio
+425,Ambiente cargado y mal rollo,1,0.2669714608111977,audio
+426,Comida normal nada especial,-1,0.17098800812784024,Unknown
+427,No había casi colas,-1,0.17656379015177673,Unknown
+428,Demasiada gente agobiante genialll,-1,0.17043244294525942,Unknown
+429,Esperamos muchísimo para entrar aunque fue brutal,2,1.0,ambiente
+430,audio brutal,1,1.0,audio
+431,rosalía decepcionante,0,1.0,público
+432,Colas interminables un desastre,-1,0.16008037037811157,Unknown
+433,Ambiente regular como siempre,2,1.0,ambiente
+434,muy mal organizado todo,1,1.0,audio
+435,Ambiente regular como siempre,2,1.0,ambiente
+436,Me encantó la comida del festival,-1,0.15556154990709886,Unknown
+437,Ambiente regular como siempre vibraaa aunque fue brutal,2,1.0,ambiente
+438,Muy buen ambiente,3,1.0,sonido
+439,Comida normal nada especial bno,-1,0.1710503528618718,Unknown
+440,Me encantó la comida del festival,-1,0.15550645355409118,Unknown
+441,desastre en la organización,5,1.0,organización
+442,quevedo estuvo genial,0,0.557120960753224,público
+443,carísima y mala la comida,-1,0.1516063560450594,Unknown
+444,Me encantó la comida del festival,-1,0.1554886351635217,Unknown
+445,todo muy bien organizado,5,1.0,organización
+446,Lildami decepcionante lo dio todooo,0,0.6274619100748728,público
+447,sonido distorsionado y muy alto flipanteee,3,1.0,sonido
+448,Sonido distorsionado y muy alto cuando fue brutal,3,1.0,sonido
+449,Aitana lo dieron todo,0,0.6008140072001367,público
+450,Me encantó la comida del festival,-1,0.1563056479760746,Unknown
+451,Carísima y mala la comida,-1,0.15169346126839742,Unknown
+452,Me encantó la comida del festival,-1,0.15568064180304358,Unknown
+453,sonido distorsionado y muy alto,3,1.0,sonido
+454,tiempos de espera razonables,-1,0.18916056472538198,Unknown
+455,volumen fatal lo dio todooo,4,1.0,volumen
+456,Sonido distorsionado y muy alto,3,1.0,sonido
+457,Muy mal organizado todo,1,1.0,audio
+458,esperamos muchísimo para entrar flipanteee,2,1.0,ambiente
+459,La comida estuvo increíble,-1,0.15627671874153978,Unknown
+460,Ambiente cargado y mal rollo,1,0.2657256142917492,audio
+461,esperamos muchísimo para entrar,2,1.0,ambiente
+462,buhos decepcionante,0,1.0,público
+463,Todo muy bien organizado,5,1.0,organización
+464,Ambiente cargado y mal rollo vibraaa,1,0.2648825159921214,audio
+465,Rosalía decepcionante,0,1.0,público
+466,el sonido fue perfecto,4,1.0,volumen
+467,Muy mal organizado todo,1,1.0,audio
+468,The Tyets lo dieron todo,0,0.5485317939690993,público
+469,No había casi colas,-1,0.17633587096959275,Unknown
+470,La comida estuvo increíble,-1,0.15619333670035254,Unknown
+471,Volumen fatal,4,1.0,volumen
+472,Organización como cualquier festival bno,-1,0.1586882479123682,Unknown
+473,Bad Gyal decepcionante,0,0.1626650841504321,público
+474,Ambiente cargado y mal rollo genialll,1,0.2650316546416001,audio
+475,Muy buen ambiente,3,1.0,sonido
+476,demasiada gente agobiante,-1,0.17012936622671732,Unknown
+477,Muy mal organizado todo,1,1.0,audio
+478,Ambiente cargado y mal rollo flipanteee,1,0.2645498700932587,audio
+479,Buhos hizo vibrar al público,0,1.0,público
+480,El sonido fue perfecto,4,1.0,volumen
+481,Sonido distorsionado y muy alto,3,1.0,sonido
+482,Muy mal organizado todo,1,1.0,audio
+483,Quevedo lo dieron todo,0,0.5914108745773557,público
+484,Muy buen ambiente,3,1.0,sonido
+485,Tiempos de espera razonables,-1,0.1894863606048999,Unknown
+486,rosalía decepcionante,0,1.0,público
+487,el sonido fue perfecto,4,1.0,volumen
+488,todo muy bien organizado,5,1.0,organización
+489,Colas interminables un desastre,-1,0.16031515282200395,Unknown
+490,ambiente regular como siempre,2,1.0,ambiente
+491,Ambiente cargado y mal rollo,1,0.2662775655526863,audio
+492,Audio brutal,1,1.0,audio
+493,Organización como cualquier festival,-1,0.15861732132635856,Unknown
+494,Sonido distorsionado y muy alto,3,1.0,sonido
+495,Colas interminables un desastre toa,-1,0.16024520864494685,Unknown
+496,desastre en la organización,5,1.0,organización
+497,Lildami lo dieron todo no convenciooo,0,0.6342553384325059,público
+498,El sonido fue perfecto,4,1.0,volumen
+499,Organización como cualquier festival,-1,0.15859359740752701,Unknown
+500,organización como cualquier festival,-1,0.16938209319622208,Unknown
+501,muy buen ambiente toa,3,1.0,sonido
+502,El sonido fue perfecto bno,4,1.0,volumen
+503,ambiente cargado y mal rollo,1,0.26501703054654024,audio
+504,Demasiada gente agobiante k porque fue brutal,0,0.9219352946183779,público
+505,Sonido distorsionado y muy alto,3,1.0,sonido
+506,ambiente regular como siempre,2,1.0,ambiente
+507,rigoberta bandini hizo vibrar al público porque fue brutal,0,1.0,público
+508,esperamos muchísimo para entrar,2,1.0,ambiente
+509,Todo muy bien organizado ya que fue brutal,1,1.0,audio
+510,Buhos estuvo genial,0,0.518278911257144,público
+511,Buhos hizo vibrar al público mientras fue brutal,0,1.0,público
+512,Colas interminables un desastre,-1,0.1603242743739409,Unknown
+513,Audio brutal,1,1.0,audio
+514,Esperamos muchísimo para entrar,2,1.0,ambiente
+515,Desastre en la organización vibraaa,5,1.0,organización
+516,Todo muy bien organizado,5,1.0,organización
+517,Tiempos de espera razonables,-1,0.188894561339784,Unknown
+518,Sonido distorsionado y muy alto,3,1.0,sonido
+519,Stay Homas lo dieron todo,0,0.27691990891119816,público
+520,Demasiada gente agobiante super biennn,-1,0.17049257523970462,Unknown
+521,Stay Homas hizo vibrar al público cuando fue brutal,0,0.3200852939644875,público
+522,sonido distorsionado y muy alto,3,1.0,sonido
+523,Esperamos muchísimo para entrar,2,1.0,ambiente
+524,La comida estuvo increíble,-1,0.15610372212353513,Unknown
+525,Volumen fatal lo dio todooo,4,1.0,volumen
+526,Ambiente cargado y mal rollo,1,0.2665893597537159,audio
+527,Muy mal organizado todo lo dio todooo,1,1.0,audio
+528,No había casi colas,-1,0.17638668625235104,Unknown
+529,No había casi colas porque fue brutal,0,1.0,público
+530,Stay Homas decepcionante,0,0.2777027386645972,público
+531,Bad Gyal decepcionante porque fue brutal,0,0.16484226730561716,público
+532,Volumen fatal aunque fue brutal,4,1.0,volumen
+533,Muy buen ambiente,3,1.0,sonido
+534,Esperamos muchísimo para entrar,2,1.0,ambiente
+535,Bad Gyal hizo vibrar al público,0,0.170990865850237,público
+536,Carísima y mala la comida,-1,0.15170053418277193,Unknown
+537,Sonido distorsionado y muy alto,3,1.0,sonido
+538,audio brutal,1,1.0,audio
+539,esperamos muchísimo para entrar,2,1.0,ambiente
+540,Demasiada gente agobiante ya que fue brutal,0,0.8841988020815831,público
+541,Quevedo decepcionante ya que fue brutal,0,0.8145987745600851,público
+542,El sonido fue perfecto,4,1.0,volumen
+543,Ambiente regular como siempre,2,1.0,ambiente
+544,Esperamos muchísimo para entrar,2,1.0,ambiente
+545,Organización como cualquier festival,-1,0.15870249844656462,Unknown
+546,Carísima y mala la comida,-1,0.15164831930581785,Unknown
+547,Ambiente cargado y mal rollo,1,0.2659517231435142,audio
+548,Comida normal nada especial,-1,0.17100438791955067,Unknown
+549,Volumen fatal mientras fue brutal,4,1.0,volumen
+550,rigoberta bandini lo dieron todo aunque fue brutal,0,0.7574220638900243,público
+551,Tiempos de espera razonables,-1,0.18898616337165278,Unknown
+552,Ambiente cargado y mal rollo,1,0.2664478836712439,audio
+553,Stay Homas lo dieron todo,0,0.2770167417370934,público
+554,No había casi colas,-1,0.1763939864340177,Unknown
+555,organización como cualquier festival,-1,0.16938184462165828,Unknown
+556,Buhos decepcionante no convenciooo aunque fue brutal,0,1.0,público
+557,Todo muy bien organizado,5,1.0,organización
+558,organización como cualquier festival,-1,0.16938189638602894,Unknown
+559,El sonido fue perfecto,4,1.0,volumen
+560,No había casi colas,-1,0.1764565268341403,Unknown
+561,Ambiente regular como siempre,2,1.0,ambiente
+562,Ambiente cargado y mal rollo,1,0.26647647913745015,audio
+563,No había casi colas,-1,0.17654813730410857,Unknown
+564,Lildami hizo vibrar al público genialll,0,1.0,público
+565,Ambiente cargado y mal rollo,1,0.2664897787672391,audio
+566,Volumen fatal aunque fue brutal,4,1.0,volumen
+567,Colas interminables un desastre,-1,0.16017594801961701,Unknown
+568,Carísima y mala la comida,-1,0.15170671898831292,Unknown
+569,Ambiente regular como siempre,2,1.0,ambiente
+570,Colas interminables un desastre,-1,0.1602056471208142,Unknown
+571,Tiempos de espera razonables super biennn,-1,0.187565462724135,Unknown
+572,buhos hizo vibrar al público,0,1.0,público
+573,Volumen fatal,4,1.0,volumen
+574,carísima y mala la comida,-1,0.1516594032001772,Unknown
+575,Bad Gyal estuvo genial,0,0.1715516933670974,público
+576,Esperamos muchísimo para entrar,2,1.0,ambiente
+577,Ambiente cargado y mal rollo super biennn,1,0.26504122182383627,audio
+578,No había casi colas,-1,0.17593257954219094,Unknown
+579,Comida normal nada especial cuando fue brutal,-1,0.16911470865596,Unknown
+580,esperamos muchísimo para entrar flipanteee,2,1.0,ambiente
+581,tiempos de espera razonables,-1,0.18920803199859118,Unknown
+582,Colas interminables un desastre,-1,0.1602004192595105,Unknown
+583,Audio brutal,1,1.0,audio
+584,no había casi colas,-1,0.17660504930980903,Unknown
+585,Me encantó la comida del festival xq,-1,0.1553335445820174,Unknown
+586,lola índigo estuvo genial,0,0.7601621962751449,público
+587,Colas interminables un desastre flipanteee,-1,0.160092303573387,Unknown
+588,No había casi colas,-1,0.17632615093197654,Unknown
+589,Muy mal organizado todo,1,1.0,audio
+590,Comida normal nada especial,-1,0.1709403451818951,Unknown
+591,no había casi colas,-1,0.17661668544209444,Unknown
+592,La comida estuvo increíble,-1,0.1562274365804049,Unknown
+593,Me encantó la comida del festival,-1,0.15533906254121432,Unknown
+594,Demasiada gente agobiante,-1,0.17031635916924565,Unknown
+595,Tiempos de espera razonables,-1,0.1892825713283349,Unknown
+596,Ambiente cargado y mal rollo,1,0.26662604983911126,audio
+597,organización como cualquier festival,-1,0.16938203434423388,Unknown
+598,colas interminables un desastre aunque fue brutal,0,0.29925610915206063,público
+599,desastre en la organización,5,1.0,organización
+600,Lola Índigo hizo vibrar al público,0,1.0,público
+601,Rosalía hizo vibrar al público,0,1.0,público
+602,Comida normal nada especial,-1,0.1706859596537149,Unknown
+603,Sonido distorsionado y muy alto,3,1.0,sonido
+604,Colas interminables un desastre,-1,0.16035072509174628,Unknown
+605,No había casi colas,-1,0.17642359326549228,Unknown
+606,Todo muy bien organizado aunque fue brutal,1,1.0,audio
+607,Demasiada gente agobiante,-1,0.17048530875036422,Unknown
+608,Desastre en la organización,5,1.0,organización
+609,Todo muy bien organizado,5,1.0,organización
+610,Volumen fatal,4,1.0,volumen
+611,lildami estuvo genial,0,0.7587048203413421,público
+612,Muy mal organizado todo,1,1.0,audio
+613,Volumen fatal,4,1.0,volumen
+614,sonido distorsionado y muy alto toa,3,1.0,sonido
+615,Colas interminables un desastre,-1,0.16027576378306638,Unknown
+616,esperamos muchísimo para entrar,2,1.0,ambiente
+617,Colas interminables un desastre,-1,0.16019643359968883,Unknown
+618,Organización como cualquier festival no convenciooo,-1,0.1586873896541863,Unknown
+619,Comida normal nada especial genialll,-1,0.16977698977175346,Unknown
+620,Tiempos de espera razonables,-1,0.1890433760450748,Unknown
+621,Desastre en la organización,5,1.0,organización
+622,Volumen fatal,4,1.0,volumen
+623,Audio brutal,1,1.0,audio
+624,Organización como cualquier festival no convenciooo,-1,0.15886159080761772,Unknown
+625,Muy mal organizado todo,1,1.0,audio
+626,Carísima y mala la comida,-1,0.15158159244021072,Unknown
+627,Demasiada gente agobiante,-1,0.1702370339050348,Unknown
+628,Tiempos de espera razonables,-1,0.18907724537898607,Unknown
+629,Bad Gyal lo dieron todo,0,0.1769923571456122,público
+630,Lola Índigo hizo vibrar al público porque fue brutal,0,1.0,público
+631,Demasiada gente agobiante,-1,0.17023950830240644,Unknown
+632,Ambiente cargado y mal rollo porque fue brutal,0,1.0,público
+633,the tyets lo dieron todo toa,0,0.5349034743819244,público
+634,Me encantó la comida del festival mientras fue brutal,-1,0.15734673398582297,Unknown
+635,The Tyets decepcionante,0,1.0,público
+636,El sonido fue perfecto,4,1.0,volumen
+637,esperamos muchísimo para entrar,2,1.0,ambiente
+638,Desastre en la organización,5,1.0,organización
+639,Colas interminables un desastre,-1,0.16014786008730875,Unknown
+640,Comida normal nada especial cuando fue brutal,-1,0.1689806028317396,Unknown
+641,Todo muy bien organizado,5,1.0,organización
+642,Tiempos de espera razonables,-1,0.1891240886022659,Unknown
+643,Bad Gyal hizo vibrar al público xq,0,0.1722748444939272,público
+644,No había casi colas,-1,0.176002239878351,Unknown
+645,Comida normal nada especial,-1,0.17104496743478592,Unknown
+646,Tiempos de espera razonables,-1,0.18899966980285285,Unknown
+647,Ambiente regular como siempre,2,1.0,ambiente
+648,Muy mal organizado todo,1,1.0,audio
+649,Stay Homas decepcionante cuando fue brutal,0,0.3156156214500851,público
+650,Sonido distorsionado y muy alto porque fue brutal,3,1.0,sonido
+651,todo muy bien organizado porque fue brutal,1,1.0,audio
+652,Rigoberta Bandini decepcionante no convenciooo,0,1.0,público
+653,Buhos estuvo genial,0,0.5200889653236828,público
+654,rosalía decepcionante porque fue brutal,0,1.0,público
+655,Esperamos muchísimo para entrar,2,1.0,ambiente
+656,Muy mal organizado todo,1,1.0,audio
+657,Rigoberta Bandini lo dieron todo,0,1.0,público
+658,ambiente regular como siempre,2,1.0,ambiente
+659,Me encantó la comida del festival,-1,0.15597171483109812,Unknown
+660,No había casi colas,-1,0.17629968352536013,Unknown
+661,Colas interminables un desastre,-1,0.16020766978729553,Unknown
+662,Desastre en la organización,5,1.0,organización
+663,No había casi colas,-1,0.176350308982825,Unknown
+664,Esperamos muchísimo para entrar,2,1.0,ambiente
+665,Muy buen ambiente super biennn,3,1.0,sonido
+666,todo muy bien organizado,5,1.0,organización
+667,no había casi colas,-1,0.1767843053640407,Unknown
+668,Quevedo lo dieron todo no convenciooo,0,0.6215316387770334,público
+669,Muy buen ambiente aunque fue brutal,0,0.8037141715805128,público
+670,la comida estuvo increíble,-1,0.1561108906734505,Unknown
+671,Aitana estuvo genial mientras fue brutal,0,1.0,público
+672,Desastre en la organización,5,1.0,organización
+673,Ambiente regular como siempre,2,1.0,ambiente
+674,No había casi colas,-1,0.17625876281038527,Unknown
+675,Volumen fatal,4,1.0,volumen
+676,desastre en la organización bno,5,1.0,organización
+677,Demasiada gente agobiante,-1,0.17016781829957875,Unknown
+678,stay homas estuvo genial ya que fue brutal,0,0.2837075802640594,público
+679,Sonido distorsionado y muy alto lo dio todooo,3,1.0,sonido
+680,Carísima y mala la comida,-1,0.15169074419525358,Unknown
+681,no había casi colas,-1,0.17665535568766078,Unknown
+682,Ambiente cargado y mal rollo,1,0.26563476908248324,audio
+683,bad gyal lo dieron todo,0,0.18364056562448722,público
+684,ambiente regular como siempre,2,1.0,ambiente
+685,Colas interminables un desastre,-1,0.16014670008743898,Unknown
+686,La comida estuvo increíble,-1,0.1562689857531754,Unknown
+687,Quevedo estuvo genial,0,0.544540798900201,público
+688,Tiempos de espera razonables,-1,0.18921719150396973,Unknown
+689,Colas interminables un desastre,-1,0.16017315669208093,Unknown
+690,Colas interminables un desastre,-1,0.16042877128856092,Unknown
+691,Organización como cualquier festival,-1,0.15874772920218053,Unknown
+692,el sonido fue perfecto flipanteee,4,1.0,volumen
+693,Demasiada gente agobiante vibraaa,-1,0.1704083165909901,Unknown
+694,The Tyets estuvo genial,0,0.5522196248413777,público
+695,El sonido fue perfecto,4,1.0,volumen
+696,Comida normal nada especial aunque fue brutal,-1,0.16908922715945848,Unknown
+697,stay homas decepcionante,0,0.260953113624696,público
+698,Todo muy bien organizado,5,1.0,organización
+699,colas interminables un desastre,0,0.29925588714665885,público

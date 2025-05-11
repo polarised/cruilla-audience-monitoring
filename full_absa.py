@@ -1,121 +1,95 @@
 import pandas as pd
 import re
-import stanza
 import spacy
 from bertopic import BERTopic
 from sentence_transformers import SentenceTransformer
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
 from hdbscan import HDBSCAN
+from umap import UMAP
 
-hdbscan_model = HDBSCAN(
-    min_cluster_size=40,  # BIGGER clusters
-    min_samples=15,       # More strict density
-    prediction_data=True
-)
-
-
-embedding_model = SentenceTransformer("paraphrase-multilingual-mpnet-base-v2")
-nlp_spacy = spacy.load("es_core_news_sm")
-
-df = pd.read_csv("tweets_dataset.csv")
+# ----------------------------
+# 1. Cargar dataset completo
+# ----------------------------
+df = pd.read_csv("synthetic data/tweets_combinados.csv")
 tweets = df["tweet"].dropna().tolist()
 
+# ----------------------------
+# 2. Limpiar tweets
+# ----------------------------
 def clean_text(text):
     text = re.sub(r"http\S+", "", text)
     text = re.sub(r"[^\w\sÀ-ÿ]", "", text)
     return text.strip()
 
 tweets_cleaned = [clean_text(t) for t in tweets]
-
-def extract_small_phrases(text):
-    doc = nlp_spacy(text)
-    phrases = []
-    for sent in doc.sents:
-        current_phrase = []
-        for token in sent:
-            if token.text in [",", ";"] or token.pos_ == "CCONJ" or token.dep_ == "cc":  # <--- clean detection
-                if current_phrase:
-                    phrase = " ".join(current_phrase).strip()
-                    if len(phrase.split()) >= 2:
-                        phrases.append(phrase)
-                    current_phrase = []
-                continue  # skip "y", "pero", etc.
-            current_phrase.append(token.text)
-        if current_phrase:
-            phrase = " ".join(current_phrase).strip()
-            if len(phrase.split()) >= 2:
-                phrases.append(phrase)
-    return phrases
-
-
-
-def noun_tokenizer(text):
-    doc = nlp_spacy(text)
-    return [token.lemma_.lower() for token in doc if token.pos_ == "NOUN" and not token.is_stop and token.is_alpha]
+tweets_cleaned = [t for t in tweets_cleaned if len(t.split()) > 2]  # ❗ Evitar tweets vacíos o muy cortos
 
 # ----------------------------
-# 1. Extract subphrases
+# 3. Stopwords personalizadas
 # ----------------------------
-all_subphrases = []
-tweet_ids = []
-
-for idx, tweet in enumerate(tweets_cleaned):
-    subphrases = extract_small_phrases(tweet)
-    all_subphrases.extend(subphrases)
-    tweet_ids.extend([idx] * len(subphrases))
-
-print(f"\n✅ Extracted {len(all_subphrases)} subphrases from {len(tweets_cleaned)} tweets.")
-
-print("\n✅ Sample of extracted subphrases and their original tweets:")
-
-for idx in range(min(20, len(all_subphrases))):  # Print up to 20 examples
-    subphrase = all_subphrases[idx]
-    tweet_id = tweet_ids[idx]
-    original_tweet = tweets_cleaned[tweet_id]
-    
-    print(f"\nSubphrase {idx+1}:")
-    print(f"  - Subphrase: {subphrase}")
-    print(f"  - From Tweet: {original_tweet}")
-
+nlp = spacy.load("es_core_news_sm")
+stopwords_spacy = list(nlp.Defaults.stop_words)
+custom_garbage = [
+    "brutal", "todooo", "flipanteee", "genialll", "biennn", "bno", "xq", "toa",
+    "k", "vibraaa", "super", "bien", "lo", "dio", "todo", "cuando", "aunque",
+    "porque", "ya", "que"
+]
+full_stopwords = list(set(stopwords_spacy + custom_garbage))
 
 # ----------------------------
-# 2. Train BERTopic (no KMeans)
+# 4. Componentes de BERTopic
 # ----------------------------
-print("\n✅ Setting up BERTopic...")
-vectorizer_model = CountVectorizer(tokenizer=noun_tokenizer, lowercase=True)
+embedding_model = SentenceTransformer("paraphrase-multilingual-mpnet-base-v2")
 
+umap_model = UMAP(
+    n_neighbors=15,
+    n_components=2,
+    min_dist=0.1,
+    metric="cosine"
+)
+
+hdbscan_model = HDBSCAN(
+    min_cluster_size=45,
+    min_samples=10,
+    prediction_data=True
+)
+
+vectorizer_model = TfidfVectorizer(
+    stop_words=full_stopwords,
+    ngram_range=(1, 2),
+    max_df=0.95,
+    min_df=3
+)
+
+# ----------------------------
+# 5. Entrenar BERTopic
+# ----------------------------
 topic_model = BERTopic(
     language="multilingual",
     embedding_model=embedding_model,
-    vectorizer_model=vectorizer_model,
+    umap_model=umap_model,
     hdbscan_model=hdbscan_model,
+    vectorizer_model=vectorizer_model,
     calculate_probabilities=True,
     verbose=True
 )
 
-print("\n✅ Training BERTopic...")
-topics, probs = topic_model.fit_transform(all_subphrases)
+print("✅ Entrenando BERTopic...")
+topics, probs = topic_model.fit_transform(tweets_cleaned)
 
 # ----------------------------
-# 3. Save results cleanly
+# 6. Guardar resultados
 # ----------------------------
 assigned_df = pd.DataFrame({
-    "original_tweet_id": tweet_ids,
-    "original_tweet_text": [tweets_cleaned[i] for i in tweet_ids],
-    "subphrase": all_subphrases,
+    "tweet": tweets_cleaned,
     "Assigned_Topic_ID": topics,
     "Assignment_Confidence": [max(p) if p is not None else None for p in probs],
-    "Assigned_Topic_Name": [topic_model.get_topic(t)[0][0] if t != -1 else "Unknown" for t in topics],
+    "Assigned_Topic_Name": [
+        topic_model.get_topic(t)[0][0] if t != -1 and topic_model.get_topic(t) else "Unknown"
+        for t in topics
+    ],
 })
 
-# Filter meaningless subphrases (optional step)
-assigned_df = assigned_df[assigned_df["subphrase"].str.split().str.len() >= 2]
-
-
-# ----------------------------
-# 4. Save to CSV
-# ----------------------------
-assigned_df.to_csv("subphrases_with_topics.csv", index=False)
-
-print("\n✅ Subphrases and assigned topics saved to 'subphrases_with_topics.csv'.")
+assigned_df.to_csv("tweets_topics_grandes.csv", index=False)
+print("✅ Resultados guardados en 'tweets_topics_grandes.csv'")
 print(assigned_df.head())
