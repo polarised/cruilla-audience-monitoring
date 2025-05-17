@@ -3,7 +3,9 @@ from transformers import pipeline
 import re
 
 nlp = spacy.load('es_core_news_sm')
-classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
+# classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli") el entrenado en corpus inglés, que todavía funciona
+# en castellano y catalán pero peor.
+classifier = pipeline("zero-shot-classification", model="joeddav/xlm-roberta-large-xnli")
 topics = ["precios", "bebidas", "organización", "colas", "experiencia", "comida", "sonido", "baños", "seguridad", "personal", "ambiente"]
 # topics provisionales
 
@@ -30,7 +32,7 @@ def classify_clauses_zero_shot(clauses, topics, threshold=0.4):
         print(f"\ncláusula: '{clause}'")
         # Limpiamos la cláusula para el clasificador
         cleaned_clause = re.sub(r'[.,!?]', '', clause)  # Quitar puntuación básica
-        # Hacemos la clasificación zero-shot
+        #clasificación zero-shot
         result = classifier(cleaned_clause, topics)
         best_topic = result['labels'][0]
         best_score = result['scores'][0]
