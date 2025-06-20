@@ -1,10 +1,13 @@
+import re
 from transformers import XLMRobertaTokenizer, AutoModelForSequenceClassification, pipeline
 
-# Función para análisis de sentimiento de una sola cláusula
+# Load model and tokenizer only once
+model_name = "cardiffnlp/twitter-xlm-roberta-base-sentiment"
+tokenizer = XLMRobertaTokenizer.from_pretrained(model_name)
+model = AutoModelForSequenceClassification.from_pretrained(model_name)
+sentiment_pipe = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer)
+
 def sentiment_of_clause(clause):
-    model_name = "cardiffnlp/twitter-xlm-roberta-base-sentiment"
-    tokenizer = XLMRobertaTokenizer.from_pretrained(model_name)
-    model = AutoModelForSequenceClassification.from_pretrained(model_name)
-    sentiment_pipe = pipeline("sentiment-analysis", model=model, tokenizer=tokenizer)
-    result = sentiment_pipe(clause)[0]
+    cleaned_clause = re.sub(r'@\w+', '', clause).strip()
+    result = sentiment_pipe(cleaned_clause)[0]
     return result['label'], round(result['score'], 3)
