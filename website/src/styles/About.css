@@ -1,0 +1,77 @@
+.about {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #ffeb00;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: 100px;
+  text-align: center;
+}
+
+.aboutTop {
+  width: 100%;
+  height: 40vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #ffeb00;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.aboutBottom {
+  width: 100%;
+  padding: 40px 20px;
+  max-width: 1000px;
+  color: #121619;
+}
+
+.aboutBottom h1 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.aboutBottom p {
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+.cartelera {
+  margin-top: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cartelera img {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+@media only screen and (max-width: 768px) {
+  .aboutTop {
+    height: 30vh;
+  }
+
+  .aboutBottom h1 {
+    font-size: 32px;
+  }
+
+  .aboutBottom p {
+    font-size: 16px;
+    padding: 0 10px;
+  }
+
+  .cartelera img {
+    width: 90%;
+  }
+}

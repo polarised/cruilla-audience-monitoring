@@ -1,0 +1,269 @@
+.data {
+  padding: 100px 20px 40px 20px;
+  background-color: #ffeb00;
+  min-height: 100vh;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+}
+
+.dataTitle {
+  font-size: 48px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 30px;
+}
+
+.dataContent {
+  width: 100%;
+  max-width: 1000px;
+  background-color: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.filter-section {
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.filter-button {
+  background-color: #121619;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 18px;
+  font-family: inherit;
+  transition: all 0.3s ease;
+}
+
+.filter-button:hover {
+  background-color: #2c3e50;
+}
+
+.category-filters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.category-button {
+  background-color: #ecf0f1;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.category-button:hover {
+  background-color: #d6dbdf;
+}
+
+.category-button.active {
+  background-color: #121619;
+  color: white;
+}
+
+.selected-category {
+  margin: 20px 0;
+  font-size: 18px;
+  color: #121619;
+}
+
+.selected-category span {
+  font-weight: bold;
+  color: #e74c3c;
+}
+
+.charts-grid {
+  display: flex;            /* cambiar grid a flex */
+  flex-wrap: nowrap;        /* que no hagan salto de línea */
+  overflow-x: auto;         /* scroll horizontal si no caben */
+  gap: 30px;
+  margin-top: 30px;
+  padding-bottom: 10px;     /* espacio para scroll */
+}
+
+.chart-card {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  border: 1px solid #e0e0e0;
+
+  min-width: 600px;         /* ancho fijo mínimo para que se vea bien */
+  flex: 0 0 auto;           /* no se reduzca ni crezca */
+}
+
+.chart-card iframe {
+  width: 590px;             /* ancho un poco menor que el card para margen */
+  height: 300px;            /* o lo que quieras */
+  border: none;
+  border-radius: 8px;
+  display: block;
+}
+
+
+.chart-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+.chart-card h2 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #121619;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.chart-image {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #eee;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  position: relative;
+  width: 1000px;
+  max-width: 95%;
+  height: 600px;
+}
+
+
+.close-button {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  background: #e74c3c;
+  color: white;
+  border: none;
+  font-size: 1.2rem;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.modal-large {
+  width: 100vw;       /* Ocupar todo el ancho de la ventana */
+  height: 90vh;       /* Alto casi completo */
+  max-width: none;    /* Elimina cualquier límite */
+  padding: 0;
+  margin: 0;
+}
+
+.modal-large iframe {
+  height: 100% !important;
+  width: 100% !important;
+  border: none;
+}
+
+.modal-fullscreen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: white;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+
+.modal-fullscreen iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.close-modal {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  background: #000;
+  color: #fff;
+  border: none;
+  padding: 8px 14px;
+  font-size: 16px;
+  cursor: pointer;
+  z-index: 1001;
+}
+
+.expand-button {
+  margin-top: 10px;
+  padding: 8px 14px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  border-radius: 20px; /* Redondeado */
+  transition: background-color 0.2s ease;
+}
+
+.expand-button:hover {
+  background-color: #333;
+}
+
+/* Modal para el dashboard grande */
+.modal-panel.fullscreen {
+  width: 100vw;
+  height: 100vh;
+  background: white;
+  position: relative;
+  z-index: 1000;
+}
+
+/* Modal para los pequeños */
+.modal-panel.popup {
+  width: 80vw;
+  height: 60vh;
+  background: white;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.modal-panel iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.expand-button.small {
+  font-size: 12px;
+  padding: 6px 12px;
+}
