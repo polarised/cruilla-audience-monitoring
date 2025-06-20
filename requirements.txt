@@ -5,5 +5,5 @@ scikit-learn
 stanza
 pandas
 sentence-transformers
-tf-keras
 matplotlib
+spacy
